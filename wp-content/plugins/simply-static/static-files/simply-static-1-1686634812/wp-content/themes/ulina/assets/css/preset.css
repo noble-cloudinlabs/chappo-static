@@ -1,0 +1,230 @@
+/*
+ Theme Name: Ulina
+ Theme URI: https://uiuxom.com/ulina/wp/
+ Author: uiuxom
+ Author URI: https://themeforest.net/user/uiuxom
+ Description: Ulina - Fashion Ecommerce Responsive WordPress Theme
+ Version: 1.0
+ License:
+ License URI: 
+*/
+
+/*==================================
+    [Table of contents]
+===================================
+    01. Basic Typography
+    02. Custom Helper Class
+    03. Links & Buttons
+    04. Section Settings
+*/
+
+/*-----------------------------------------
+/  01. Basic Typography
+/-----------------------------------------*/
+body, html{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    color: var(--body-color);
+    letter-spacing: 0;
+    font-weight: 400;
+}
+p{
+    margin: 0 0 15px;
+}
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Jost', sans-serif;
+    font-weight: 500;
+    line-height: 1.1;
+    color: var(--heading-color);
+    margin: 0 0 15px;
+}
+:root{
+    --theme-color: #589195;
+    --secondary-color: #31797e;
+    --body-color: #7f8495;
+    --heading-color: #34394c;
+}
+a{
+    color: var(--theme-color);
+    text-decoration: none;
+    transition: all ease 350ms;
+    -moz-transition: all ease 350ms;
+    -webkit-transition: all ease 350ms;
+}
+a:hover, a:focus{
+    color: var(--heading-color);
+    text-decoration: none;
+    outline: 0;
+}
+button, input[type="submit"]{
+    transition: all ease 350ms;
+    -moz-transition: all ease 350ms;
+    -webkit-transition: all ease 350ms;
+}
+input:focus, select:focus, textarea:focus, button:focus{
+    outline: 0;
+}
+.jost{
+    font-family: 'Jost', sans-serif;
+}
+
+/*-----------------------------------------
+/  02. Custom Helper Class
+/-----------------------------------------*/
+.fixOverflow{
+    overflow: hidden;
+}
+.noPaddingLeft{
+    padding-left: 0;
+}
+.noPaddingRight{
+    padding-right: 0;
+}
+
+/*-----------------------------------------
+/  03. Links & Buttons
+/-----------------------------------------*/
+.ulinaLink{
+    font-family: 'Jost', sans-serif;
+    display: inline-block;
+    font-size: 14px;
+    line-height: 1;
+    color: var(--heading-color);
+    font-weight: 500;
+    text-transform: uppercase;
+    margin: 0;
+}
+.ulinaLink i{
+    color: var(--secondary-color);
+    font-size: 12px;
+    position: relative;
+    top: -1px;
+    margin: 0 7px 0 0px;
+    
+    transition: all ease 350ms;
+    -moz-transition: all ease 350ms;
+    -webkit-transition: all ease 350ms;
+}
+.ulinaLink:hover{
+    color: var(--secondary-color);
+}
+.ulinaLink:hover i{
+    margin-right: 10px;
+}
+.ulinaBTN{
+    font-family: 'Jost', sans-serif;
+    display: inline-block;
+    position: relative;
+    height: 48px;
+    min-width: 155px;
+    background: transparent;
+    border-radius: 48px;
+    font-size: 16px;
+    line-height: 50px;
+    color: #FFF;
+    font-weight: 500;
+    text-transform: uppercase;
+    text-align: center;
+    overflow: hidden;
+    border: none;
+}
+.ulinaBTN span{
+    position: relative;
+    z-index: 3;
+}
+.ulinaBTN:after{
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: var(--theme-color);
+    border-radius: inherit;
+}
+.ulinaBTN:before{
+    content: '';
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 0%;
+    height: 100%;
+    background: var(--heading-color);
+    border-radius: inherit;
+    opacity: 1;
+    z-index: 2;
+    
+    transition: all ease 350ms;
+    -moz-transition: all ease 350ms;
+    -webkit-transition: all ease 350ms;
+}
+.ulinaBTN:hover:before{
+    width: 100%;
+    right: auto;
+    left: 0;
+}
+.ulinaBTN:hover{
+    color: #FFF;
+}
+.ulinaBTN2{
+    font-family: 'Jost', sans-serif;
+    position: relative;
+    display: inline-block;
+    min-width: 111px;
+    height: 42px;
+    border: 1px solid #c5d0cf;
+    border-radius: 42px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--heading-color);
+    line-height: 40px;
+    text-transform: uppercase;
+}
+.ulinaBTN2:hover{
+    color: var(--heading-color);
+    border-color: var(--heading-color);
+}
+
+/*-----------------------------------------
+/  04. Section Settings
+/-----------------------------------------*/
+.secTitle{
+    font-size: 36px;
+    line-height: 48px;
+    margin: 0 0 6px;
+}
+.secDesc{
+    margin: 0;
+}
+.secSubTitle{
+    font-size: 18px;
+    line-height: 1;
+    color: var(--secondary-color);
+    font-weight: 500;
+    margin: 0;
+}
+.noPaddingRight{
+    padding-right: 0;
+}
+@media (min-width: 992px){
+    .blogDetailsPageSection .row:not([class*="gx-"]),
+    .blogPageSection .row:not([class*="gx-"]) {
+      --bs-gutter-x: 30px;
+    }
+}
+@media (min-width: 1200px){
+    .blogDetailsPageSection .row:not([class*="gx-"]),
+    .blogPageSection .row:not([class*="gx-"]) {
+      --bs-gutter-x: 48px;
+    }
+    .blogDetailsPageSection .row:not([class*="gx-"]) .row:not([class*="gx-"]),
+    .blogPageSection .row:not([class*="gx-"]) .row:not([class*="gx-"]) {
+      --bs-gutter-x: 30px;
+    }
+}

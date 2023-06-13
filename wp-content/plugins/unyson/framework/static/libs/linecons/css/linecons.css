@@ -1,6 +1,6 @@
 @font-face {
 	font-family: 'linecons';
-	src:url('https://noble-cloudinlabs.github.io/chappo-static/wp-content/plugins/unyson/framework/static/libs/linecons/fonts/linecons.eot');
+	src:url('../fonts/linecons.eot');
 }
 @font-face {
 	font-family: 'linecons';

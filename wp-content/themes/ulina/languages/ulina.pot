@@ -1,0 +1,4135 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Ulina\n"
+"POT-Creation-Date: 2022-11-11 19:25+0600\n"
+"PO-Revision-Date: 2022-11-11 19:24+0600\n"
+"Last-Translator: \n"
+"Language-Team: UIUXOM (uiuxom@gmail.com)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2;translate_nooped_plural\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:12 framework-customizations/customizer/404-settings.php:224
+#: inc/helper.php:561
+msgid "404"
+msgstr ""
+
+#: 404.php:13 framework-customizations/customizer/404-settings.php:231
+msgid "Oops! Page not found."
+msgstr ""
+
+#: 404.php:14 framework-customizations/customizer/404-settings.php:238
+msgid ""
+"The page you are looking for was moved removed, renamed or never existed"
+msgstr ""
+
+#: 404.php:17 framework-customizations/customizer/404-settings.php:256
+msgid "Back To Home"
+msgstr ""
+
+#: comments.php:14
+msgid "Comments"
+msgstr ""
+
+#: comments.php:14
+msgid "Comment"
+msgstr ""
+
+#: comments.php:27 woocommerce/single-product-reviews.php:96
+msgid "Your name"
+msgstr ""
+
+#: comments.php:29 woocommerce/single-product-reviews.php:102
+msgid "Your email"
+msgstr ""
+
+#: comments.php:37
+msgid "Write your comment here"
+msgstr ""
+
+#: comments.php:46
+msgid "Add A Comment"
+msgstr ""
+
+#: comments.php:47
+#, php-format
+msgid "Add A Replies to %s"
+msgstr ""
+
+#: comments.php:52
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:53 woocommerce/single-product-reviews.php:83
+msgid "Submit Now"
+msgstr ""
+
+#: footer.php:5
+msgid " All Rights Reserved."
+msgstr ""
+
+#: framework-customizations/customizer/404-settings.php:10
+#: framework-customizations/customizer/blog-details-settings.php:10
+#: framework-customizations/customizer/blog-details-settings.php:166
+#: framework-customizations/customizer/blog-settings.php:10
+#: framework-customizations/theme/options/posts/post.php:93
+msgid "None"
+msgstr ""
+
+#: framework-customizations/customizer/404-settings.php:26
+#: framework-customizations/customizer/blog-details-settings.php:26
+#: framework-customizations/customizer/blog-settings.php:26
+#: framework-customizations/customizer/page-settings.php:7
+#: framework-customizations/customizer/shop-brand-settings.php:7
+#: framework-customizations/customizer/shop-category-settings.php:7
+#: framework-customizations/customizer/shop-collection-settings.php:7
+#: framework-customizations/customizer/shop-product-settings.php:8
+#: framework-customizations/customizer/shop-search-settings.php:7
+#: framework-customizations/customizer/shop-settings.php:8
+#: framework-customizations/customizer/shop-tag-settings.php:7
+#: framework-customizations/theme/options/posts/blocks.php:10
+#: framework-customizations/theme/options/posts/page.php:96
+#: framework-customizations/theme/options/posts/post.php:8
+#: framework-customizations/theme/options/posts/product.php:9
+msgid "Banner Settings"
+msgstr ""
+
+#: framework-customizations/customizer/404-settings.php:31
+#: framework-customizations/customizer/blog-details-settings.php:31
+#: framework-customizations/customizer/blog-others-settings.php:12
+#: framework-customizations/customizer/blog-others-settings.php:203
+#: framework-customizations/customizer/blog-others-settings.php:394
+#: framework-customizations/customizer/blog-settings.php:31
+#: framework-customizations/customizer/page-settings.php:12
+#: framework-customizations/customizer/shop-brand-settings.php:12
+#: framework-customizations/customizer/shop-category-settings.php:12
+#: framework-customizations/customizer/shop-collection-settings.php:12
+#: framework-customizations/customizer/shop-product-settings.php:13
+#: framework-customizations/customizer/shop-search-settings.php:12
+#: framework-customizations/customizer/shop-settings.php:13
+#: framework-customizations/customizer/shop-tag-settings.php:12
+msgid "Is Banner?"
+msgstr ""
+
+#: framework-customizations/customizer/404-settings.php:35
+#: framework-customizations/customizer/blog-details-settings.php:35
+#: framework-customizations/customizer/blog-others-settings.php:16
+#: framework-customizations/customizer/blog-others-settings.php:207
+#: framework-customizations/customizer/blog-others-settings.php:398
+#: framework-customizations/customizer/blog-settings.php:35
+#: framework-customizations/customizer/header-settings.php:58
+#: framework-customizations/customizer/page-settings.php:16
+#: framework-customizations/customizer/shop-brand-settings.php:16
+#: framework-customizations/customizer/shop-category-settings.php:16
+#: framework-customizations/customizer/shop-collection-settings.php:16
+#: framework-customizations/customizer/shop-product-settings.php:17
+#: framework-customizations/customizer/shop-search-settings.php:16
+#: framework-customizations/customizer/shop-settings.php:18
+#: framework-customizations/customizer/shop-tag-settings.php:16
+msgid "Enable "
+msgstr ""
+
+#: framework-customizations/customizer/404-settings.php:36
+#: framework-customizations/customizer/blog-details-settings.php:36
+#: framework-customizations/customizer/blog-others-settings.php:17
+#: framework-customizations/customizer/blog-others-settings.php:208
+#: framework-customizations/customizer/blog-others-settings.php:399
+#: framework-customizations/customizer/blog-settings.php:36
+#: framework-customizations/customizer/header-settings.php:59
+#: framework-customizations/customizer/page-settings.php:17
+#: framework-customizations/customizer/shop-brand-settings.php:17
+#: framework-customizations/customizer/shop-category-settings.php:17
+#: framework-customizations/customizer/shop-collection-settings.php:17
+#: framework-customizations/customizer/shop-product-settings.php:18
+#: framework-customizations/customizer/shop-search-settings.php:17
+#: framework-customizations/customizer/shop-settings.php:19
+#: framework-customizations/customizer/shop-tag-settings.php:17
+msgid "Disable "
+msgstr ""
+
+#: framework-customizations/customizer/404-settings.php:42
+#: framework-customizations/customizer/blog-details-settings.php:42
+#: framework-customizations/customizer/blog-others-settings.php:23
+#: framework-customizations/customizer/blog-others-settings.php:214
+#: framework-customizations/customizer/blog-others-settings.php:405
+#: framework-customizations/customizer/blog-settings.php:42
+#: framework-customizations/customizer/page-settings.php:23
+#: framework-customizations/customizer/shop-brand-settings.php:23
+#: framework-customizations/customizer/shop-category-settings.php:23
+#: framework-customizations/customizer/shop-collection-settings.php:23
+#: framework-customizations/customizer/shop-product-settings.php:24
+#: framework-customizations/customizer/shop-search-settings.php:23
+#: framework-customizations/customizer/shop-settings.php:26
+#: framework-customizations/customizer/shop-tag-settings.php:23
+msgid "Banner Background"
+msgstr ""
+
+#: framework-customizations/customizer/404-settings.php:43
+msgid "Setup you 404 page banner BG."
+msgstr ""
+
+#: framework-customizations/customizer/404-settings.php:70
+#: framework-customizations/customizer/blog-details-settings.php:70
+#: framework-customizations/customizer/blog-others-settings.php:51
+#: framework-customizations/customizer/blog-others-settings.php:242
+#: framework-customizations/customizer/blog-others-settings.php:433
+#: framework-customizations/customizer/blog-settings.php:70
+#: framework-customizations/customizer/page-settings.php:51
+#: framework-customizations/customizer/shop-brand-settings.php:51
+#: framework-customizations/customizer/shop-category-settings.php:51
+#: framework-customizations/customizer/shop-collection-settings.php:51
+#: framework-customizations/customizer/shop-product-settings.php:52
+#: framework-customizations/customizer/shop-search-settings.php:51
+#: framework-customizations/customizer/shop-settings.php:54
+#: framework-customizations/customizer/shop-tag-settings.php:51
+#: framework-customizations/theme/options/posts/blocks.php:41
+#: framework-customizations/theme/options/posts/page.php:142
+#: framework-customizations/theme/options/posts/post.php:54
+#: framework-customizations/theme/options/posts/product.php:55
+#: framework-customizations/theme/options/taxonomies/category.php:47
+#: framework-customizations/theme/options/taxonomies/product_brand.php:52
+#: framework-customizations/theme/options/taxonomies/product_cat.php:52
+#: framework-customizations/theme/options/taxonomies/product_collection.php:52
+#: framework-customizations/theme/options/taxonomies/product_tag.php:52
+msgid "Banner Title"
+msgstr ""
+
+#: framework-customizations/customizer/404-settings.php:72
+#: template-parts/header/404-header.php:2
+msgid "Page Not Found"
+msgstr ""
+
+#: framework-customizations/customizer/404-settings.php:91
+#: framework-customizations/customizer/blog-others-settings.php:72
+#: framework-customizations/customizer/blog-others-settings.php:263
+#: framework-customizations/customizer/blog-others-settings.php:454
+#: framework-customizations/customizer/blog-settings.php:91
+#: framework-customizations/customizer/page-settings.php:72
+#: framework-customizations/customizer/shop-brand-settings.php:72
+#: framework-customizations/customizer/shop-category-settings.php:72
+#: framework-customizations/customizer/shop-collection-settings.php:72
+#: framework-customizations/customizer/shop-product-settings.php:73
+#: framework-customizations/customizer/shop-search-settings.php:72
+#: framework-customizations/customizer/shop-settings.php:76
+#: framework-customizations/customizer/shop-tag-settings.php:72
+#: framework-customizations/theme/options/posts/blocks.php:45
+#: framework-customizations/theme/options/posts/page.php:146
+#: framework-customizations/theme/options/posts/product.php:59
+#: framework-customizations/theme/options/taxonomies/category.php:51
+#: framework-customizations/theme/options/taxonomies/product_brand.php:56
+#: framework-customizations/theme/options/taxonomies/product_cat.php:56
+#: framework-customizations/theme/options/taxonomies/product_collection.php:56
+#: framework-customizations/theme/options/taxonomies/product_tag.php:56
+msgid "Is Breadcrumb?"
+msgstr ""
+
+#: framework-customizations/customizer/404-settings.php:95
+#: framework-customizations/customizer/blog-details-settings.php:178
+#: framework-customizations/customizer/blog-details-settings.php:189
+#: framework-customizations/customizer/blog-details-settings.php:225
+#: framework-customizations/customizer/blog-details-settings.php:236
+#: framework-customizations/customizer/blog-others-settings.php:76
+#: framework-customizations/customizer/blog-others-settings.php:267
+#: framework-customizations/customizer/blog-others-settings.php:458
+#: framework-customizations/customizer/blog-settings.php:95
+#: framework-customizations/customizer/blog-settings.php:282
+#: framework-customizations/customizer/page-settings.php:76
+#: framework-customizations/customizer/quickview-settings.php:17
+#: framework-customizations/customizer/quickview-settings.php:28
+#: framework-customizations/customizer/quickview-settings.php:39
+#: framework-customizations/customizer/quickview-settings.php:50
+#: framework-customizations/customizer/quickview-settings.php:75
+#: framework-customizations/customizer/quickview-settings.php:86
+#: framework-customizations/customizer/quickview-settings.php:97
+#: framework-customizations/customizer/quickview-settings.php:108
+#: framework-customizations/customizer/shop-brand-settings.php:76
+#: framework-customizations/customizer/shop-brand-settings.php:265
+#: framework-customizations/customizer/shop-brand-settings.php:276
+#: framework-customizations/customizer/shop-brand-settings.php:287
+#: framework-customizations/customizer/shop-brand-settings.php:394
+#: framework-customizations/customizer/shop-brand-settings.php:405
+#: framework-customizations/customizer/shop-brand-settings.php:416
+#: framework-customizations/customizer/shop-brand-settings.php:428
+#: framework-customizations/customizer/shop-category-settings.php:76
+#: framework-customizations/customizer/shop-category-settings.php:265
+#: framework-customizations/customizer/shop-category-settings.php:276
+#: framework-customizations/customizer/shop-category-settings.php:287
+#: framework-customizations/customizer/shop-category-settings.php:364
+#: framework-customizations/customizer/shop-category-settings.php:375
+#: framework-customizations/customizer/shop-category-settings.php:386
+#: framework-customizations/customizer/shop-category-settings.php:398
+#: framework-customizations/customizer/shop-collection-settings.php:76
+#: framework-customizations/customizer/shop-collection-settings.php:265
+#: framework-customizations/customizer/shop-collection-settings.php:276
+#: framework-customizations/customizer/shop-collection-settings.php:287
+#: framework-customizations/customizer/shop-collection-settings.php:364
+#: framework-customizations/customizer/shop-collection-settings.php:375
+#: framework-customizations/customizer/shop-collection-settings.php:386
+#: framework-customizations/customizer/shop-collection-settings.php:398
+#: framework-customizations/customizer/shop-product-settings.php:77
+#: framework-customizations/customizer/shop-product-settings.php:213
+#: framework-customizations/customizer/shop-product-settings.php:224
+#: framework-customizations/customizer/shop-product-settings.php:235
+#: framework-customizations/customizer/shop-product-settings.php:246
+#: framework-customizations/customizer/shop-product-settings.php:257
+#: framework-customizations/customizer/shop-product-settings.php:304
+#: framework-customizations/customizer/shop-product-settings.php:315
+#: framework-customizations/customizer/shop-product-settings.php:326
+#: framework-customizations/customizer/shop-product-settings.php:337
+#: framework-customizations/customizer/shop-product-settings.php:420
+#: framework-customizations/customizer/shop-product-settings.php:445
+#: framework-customizations/customizer/shop-product-settings.php:463
+#: framework-customizations/customizer/shop-product-settings.php:481
+#: framework-customizations/customizer/shop-product-settings.php:500
+#: framework-customizations/customizer/shop-search-settings.php:76
+#: framework-customizations/customizer/shop-settings.php:81
+#: framework-customizations/customizer/shop-settings.php:282
+#: framework-customizations/customizer/shop-settings.php:294
+#: framework-customizations/customizer/shop-settings.php:306
+#: framework-customizations/customizer/shop-settings.php:389
+#: framework-customizations/customizer/shop-settings.php:401
+#: framework-customizations/customizer/shop-settings.php:413
+#: framework-customizations/customizer/shop-settings.php:426
+#: framework-customizations/customizer/shop-tag-settings.php:76
+#: framework-customizations/customizer/shop-tag-settings.php:265
+#: framework-customizations/customizer/shop-tag-settings.php:276
+#: framework-customizations/customizer/shop-tag-settings.php:287
+#: framework-customizations/customizer/shop-tag-settings.php:364
+#: framework-customizations/customizer/shop-tag-settings.php:375
+#: framework-customizations/customizer/shop-tag-settings.php:386
+#: framework-customizations/customizer/shop-tag-settings.php:398
+#: framework-customizations/theme/options/posts/blocks.php:18
+#: framework-customizations/theme/options/posts/page.php:118
+#: framework-customizations/theme/options/posts/post.php:30
+#: framework-customizations/theme/options/posts/post.php:103
+#: framework-customizations/theme/options/posts/post.php:116
+#: framework-customizations/theme/options/posts/post.php:145
+#: framework-customizations/theme/options/posts/post.php:158
+#: framework-customizations/theme/options/posts/product.php:31
+#: framework-customizations/theme/options/posts/product.php:93
+#: framework-customizations/theme/options/posts/product.php:115
+#: framework-customizations/theme/options/posts/product.php:128
+#: framework-customizations/theme/options/posts/product.php:141
+#: framework-customizations/theme/options/posts/product.php:154
+#: framework-customizations/theme/options/posts/product.php:167
+#: framework-customizations/theme/options/posts/product.php:204
+#: framework-customizations/theme/options/posts/product.php:217
+#: framework-customizations/theme/options/posts/product.php:230
+#: framework-customizations/theme/options/posts/product.php:243
+#: framework-customizations/theme/options/posts/product.php:312
+#: framework-customizations/theme/options/posts/product.php:330
+#: framework-customizations/theme/options/posts/product.php:343
+#: framework-customizations/theme/options/posts/product.php:356
+#: framework-customizations/theme/options/posts/product.php:369
+#: framework-customizations/theme/options/taxonomies/category.php:9
+#: framework-customizations/theme/options/taxonomies/category.php:23
+#: framework-customizations/theme/options/taxonomies/product_brand.php:28
+#: framework-customizations/theme/options/taxonomies/product_brand.php:159
+#: framework-customizations/theme/options/taxonomies/product_brand.php:172
+#: framework-customizations/theme/options/taxonomies/product_brand.php:185
+#: framework-customizations/theme/options/taxonomies/product_brand.php:247
+#: framework-customizations/theme/options/taxonomies/product_brand.php:260
+#: framework-customizations/theme/options/taxonomies/product_brand.php:273
+#: framework-customizations/theme/options/taxonomies/product_brand.php:286
+#: framework-customizations/theme/options/taxonomies/product_cat.php:28
+#: framework-customizations/theme/options/taxonomies/product_cat.php:159
+#: framework-customizations/theme/options/taxonomies/product_cat.php:172
+#: framework-customizations/theme/options/taxonomies/product_cat.php:185
+#: framework-customizations/theme/options/taxonomies/product_cat.php:247
+#: framework-customizations/theme/options/taxonomies/product_cat.php:260
+#: framework-customizations/theme/options/taxonomies/product_cat.php:273
+#: framework-customizations/theme/options/taxonomies/product_cat.php:286
+#: framework-customizations/theme/options/taxonomies/product_collection.php:28
+#: framework-customizations/theme/options/taxonomies/product_collection.php:159
+#: framework-customizations/theme/options/taxonomies/product_collection.php:172
+#: framework-customizations/theme/options/taxonomies/product_collection.php:185
+#: framework-customizations/theme/options/taxonomies/product_collection.php:247
+#: framework-customizations/theme/options/taxonomies/product_collection.php:260
+#: framework-customizations/theme/options/taxonomies/product_collection.php:273
+#: framework-customizations/theme/options/taxonomies/product_collection.php:286
+#: framework-customizations/theme/options/taxonomies/product_tag.php:28
+#: framework-customizations/theme/options/taxonomies/product_tag.php:159
+#: framework-customizations/theme/options/taxonomies/product_tag.php:172
+#: framework-customizations/theme/options/taxonomies/product_tag.php:185
+#: framework-customizations/theme/options/taxonomies/product_tag.php:247
+#: framework-customizations/theme/options/taxonomies/product_tag.php:260
+#: framework-customizations/theme/options/taxonomies/product_tag.php:273
+#: framework-customizations/theme/options/taxonomies/product_tag.php:286
+msgid "Show"
+msgstr ""
+
+#: framework-customizations/customizer/404-settings.php:96
+#: framework-customizations/customizer/blog-details-settings.php:179
+#: framework-customizations/customizer/blog-details-settings.php:190
+#: framework-customizations/customizer/blog-details-settings.php:226
+#: framework-customizations/customizer/blog-details-settings.php:237
+#: framework-customizations/customizer/blog-others-settings.php:77
+#: framework-customizations/customizer/blog-others-settings.php:268
+#: framework-customizations/customizer/blog-others-settings.php:459
+#: framework-customizations/customizer/blog-settings.php:96
+#: framework-customizations/customizer/blog-settings.php:283
+#: framework-customizations/customizer/page-settings.php:77
+#: framework-customizations/customizer/quickview-settings.php:18
+#: framework-customizations/customizer/quickview-settings.php:29
+#: framework-customizations/customizer/quickview-settings.php:40
+#: framework-customizations/customizer/quickview-settings.php:51
+#: framework-customizations/customizer/quickview-settings.php:76
+#: framework-customizations/customizer/quickview-settings.php:87
+#: framework-customizations/customizer/quickview-settings.php:98
+#: framework-customizations/customizer/quickview-settings.php:109
+#: framework-customizations/customizer/shop-brand-settings.php:77
+#: framework-customizations/customizer/shop-brand-settings.php:266
+#: framework-customizations/customizer/shop-brand-settings.php:277
+#: framework-customizations/customizer/shop-brand-settings.php:288
+#: framework-customizations/customizer/shop-brand-settings.php:395
+#: framework-customizations/customizer/shop-brand-settings.php:406
+#: framework-customizations/customizer/shop-brand-settings.php:417
+#: framework-customizations/customizer/shop-brand-settings.php:429
+#: framework-customizations/customizer/shop-category-settings.php:77
+#: framework-customizations/customizer/shop-category-settings.php:266
+#: framework-customizations/customizer/shop-category-settings.php:277
+#: framework-customizations/customizer/shop-category-settings.php:288
+#: framework-customizations/customizer/shop-category-settings.php:365
+#: framework-customizations/customizer/shop-category-settings.php:376
+#: framework-customizations/customizer/shop-category-settings.php:387
+#: framework-customizations/customizer/shop-category-settings.php:399
+#: framework-customizations/customizer/shop-collection-settings.php:77
+#: framework-customizations/customizer/shop-collection-settings.php:266
+#: framework-customizations/customizer/shop-collection-settings.php:277
+#: framework-customizations/customizer/shop-collection-settings.php:288
+#: framework-customizations/customizer/shop-collection-settings.php:365
+#: framework-customizations/customizer/shop-collection-settings.php:376
+#: framework-customizations/customizer/shop-collection-settings.php:387
+#: framework-customizations/customizer/shop-collection-settings.php:399
+#: framework-customizations/customizer/shop-product-settings.php:78
+#: framework-customizations/customizer/shop-product-settings.php:214
+#: framework-customizations/customizer/shop-product-settings.php:225
+#: framework-customizations/customizer/shop-product-settings.php:236
+#: framework-customizations/customizer/shop-product-settings.php:247
+#: framework-customizations/customizer/shop-product-settings.php:258
+#: framework-customizations/customizer/shop-product-settings.php:305
+#: framework-customizations/customizer/shop-product-settings.php:316
+#: framework-customizations/customizer/shop-product-settings.php:327
+#: framework-customizations/customizer/shop-product-settings.php:338
+#: framework-customizations/customizer/shop-product-settings.php:421
+#: framework-customizations/customizer/shop-product-settings.php:446
+#: framework-customizations/customizer/shop-product-settings.php:464
+#: framework-customizations/customizer/shop-product-settings.php:482
+#: framework-customizations/customizer/shop-product-settings.php:501
+#: framework-customizations/customizer/shop-search-settings.php:77
+#: framework-customizations/customizer/shop-settings.php:82
+#: framework-customizations/customizer/shop-settings.php:283
+#: framework-customizations/customizer/shop-settings.php:295
+#: framework-customizations/customizer/shop-settings.php:307
+#: framework-customizations/customizer/shop-settings.php:390
+#: framework-customizations/customizer/shop-settings.php:402
+#: framework-customizations/customizer/shop-settings.php:414
+#: framework-customizations/customizer/shop-settings.php:427
+#: framework-customizations/customizer/shop-tag-settings.php:77
+#: framework-customizations/customizer/shop-tag-settings.php:266
+#: framework-customizations/customizer/shop-tag-settings.php:277
+#: framework-customizations/customizer/shop-tag-settings.php:288
+#: framework-customizations/customizer/shop-tag-settings.php:365
+#: framework-customizations/customizer/shop-tag-settings.php:376
+#: framework-customizations/customizer/shop-tag-settings.php:387
+#: framework-customizations/customizer/shop-tag-settings.php:399
+#: framework-customizations/theme/options/posts/blocks.php:22
+#: framework-customizations/theme/options/posts/page.php:122
+#: framework-customizations/theme/options/posts/post.php:34
+#: framework-customizations/theme/options/posts/post.php:107
+#: framework-customizations/theme/options/posts/post.php:120
+#: framework-customizations/theme/options/posts/post.php:149
+#: framework-customizations/theme/options/posts/post.php:162
+#: framework-customizations/theme/options/posts/product.php:35
+#: framework-customizations/theme/options/posts/product.php:97
+#: framework-customizations/theme/options/posts/product.php:119
+#: framework-customizations/theme/options/posts/product.php:132
+#: framework-customizations/theme/options/posts/product.php:145
+#: framework-customizations/theme/options/posts/product.php:158
+#: framework-customizations/theme/options/posts/product.php:171
+#: framework-customizations/theme/options/posts/product.php:208
+#: framework-customizations/theme/options/posts/product.php:221
+#: framework-customizations/theme/options/posts/product.php:234
+#: framework-customizations/theme/options/posts/product.php:247
+#: framework-customizations/theme/options/posts/product.php:316
+#: framework-customizations/theme/options/posts/product.php:334
+#: framework-customizations/theme/options/posts/product.php:347
+#: framework-customizations/theme/options/posts/product.php:360
+#: framework-customizations/theme/options/posts/product.php:373
+#: framework-customizations/theme/options/taxonomies/category.php:13
+#: framework-customizations/theme/options/taxonomies/category.php:27
+#: framework-customizations/theme/options/taxonomies/product_brand.php:32
+#: framework-customizations/theme/options/taxonomies/product_brand.php:163
+#: framework-customizations/theme/options/taxonomies/product_brand.php:176
+#: framework-customizations/theme/options/taxonomies/product_brand.php:189
+#: framework-customizations/theme/options/taxonomies/product_brand.php:251
+#: framework-customizations/theme/options/taxonomies/product_brand.php:264
+#: framework-customizations/theme/options/taxonomies/product_brand.php:277
+#: framework-customizations/theme/options/taxonomies/product_brand.php:290
+#: framework-customizations/theme/options/taxonomies/product_cat.php:32
+#: framework-customizations/theme/options/taxonomies/product_cat.php:163
+#: framework-customizations/theme/options/taxonomies/product_cat.php:176
+#: framework-customizations/theme/options/taxonomies/product_cat.php:189
+#: framework-customizations/theme/options/taxonomies/product_cat.php:251
+#: framework-customizations/theme/options/taxonomies/product_cat.php:264
+#: framework-customizations/theme/options/taxonomies/product_cat.php:277
+#: framework-customizations/theme/options/taxonomies/product_cat.php:290
+#: framework-customizations/theme/options/taxonomies/product_collection.php:32
+#: framework-customizations/theme/options/taxonomies/product_collection.php:163
+#: framework-customizations/theme/options/taxonomies/product_collection.php:176
+#: framework-customizations/theme/options/taxonomies/product_collection.php:189
+#: framework-customizations/theme/options/taxonomies/product_collection.php:251
+#: framework-customizations/theme/options/taxonomies/product_collection.php:264
+#: framework-customizations/theme/options/taxonomies/product_collection.php:277
+#: framework-customizations/theme/options/taxonomies/product_collection.php:290
+#: framework-customizations/theme/options/taxonomies/product_tag.php:32
+#: framework-customizations/theme/options/taxonomies/product_tag.php:163
+#: framework-customizations/theme/options/taxonomies/product_tag.php:176
+#: framework-customizations/theme/options/taxonomies/product_tag.php:189
+#: framework-customizations/theme/options/taxonomies/product_tag.php:251
+#: framework-customizations/theme/options/taxonomies/product_tag.php:264
+#: framework-customizations/theme/options/taxonomies/product_tag.php:277
+#: framework-customizations/theme/options/taxonomies/product_tag.php:290
+msgid "Hide"
+msgstr ""
+
+#: framework-customizations/customizer/404-settings.php:109
+#: framework-customizations/customizer/blog-details-settings.php:91
+#: framework-customizations/customizer/blog-others-settings.php:90
+#: framework-customizations/customizer/blog-others-settings.php:281
+#: framework-customizations/customizer/blog-others-settings.php:472
+#: framework-customizations/customizer/blog-settings.php:109
+#: framework-customizations/customizer/page-settings.php:90
+#: framework-customizations/customizer/shop-brand-settings.php:90
+#: framework-customizations/customizer/shop-category-settings.php:90
+#: framework-customizations/customizer/shop-collection-settings.php:90
+#: framework-customizations/customizer/shop-product-settings.php:91
+#: framework-customizations/customizer/shop-search-settings.php:90
+#: framework-customizations/customizer/shop-settings.php:95
+#: framework-customizations/customizer/shop-tag-settings.php:90
+msgid "Choose your banner text alignment."
+msgstr ""
+
+#: framework-customizations/customizer/404-settings.php:113
+#: framework-customizations/customizer/blog-details-settings.php:95
+#: framework-customizations/customizer/blog-details-settings.php:167
+#: framework-customizations/customizer/blog-others-settings.php:94
+#: framework-customizations/customizer/blog-others-settings.php:285
+#: framework-customizations/customizer/blog-others-settings.php:476
+#: framework-customizations/customizer/blog-settings.php:113
+#: framework-customizations/customizer/blog-settings.php:330
+#: framework-customizations/customizer/page-settings.php:94
+#: framework-customizations/customizer/shop-brand-settings.php:94
+#: framework-customizations/customizer/shop-brand-settings.php:439
+#: framework-customizations/customizer/shop-category-settings.php:94
+#: framework-customizations/customizer/shop-category-settings.php:448
+#: framework-customizations/customizer/shop-collection-settings.php:94
+#: framework-customizations/customizer/shop-collection-settings.php:448
+#: framework-customizations/customizer/shop-product-settings.php:95
+#: framework-customizations/customizer/shop-search-settings.php:94
+#: framework-customizations/customizer/shop-settings.php:100
+#: framework-customizations/customizer/shop-settings.php:493
+#: framework-customizations/customizer/shop-tag-settings.php:94
+#: framework-customizations/customizer/shop-tag-settings.php:448
+#: framework-customizations/theme/options/posts/blocks.php:63
+#: framework-customizations/theme/options/posts/page.php:164
+#: framework-customizations/theme/options/posts/post.php:63
+#: framework-customizations/theme/options/posts/post.php:94
+#: framework-customizations/theme/options/posts/product.php:77
+#: framework-customizations/theme/options/taxonomies/category.php:70
+#: framework-customizations/theme/options/taxonomies/product_brand.php:74
+#: framework-customizations/theme/options/taxonomies/product_brand.php:318
+#: framework-customizations/theme/options/taxonomies/product_cat.php:74
+#: framework-customizations/theme/options/taxonomies/product_cat.php:318
+#: framework-customizations/theme/options/taxonomies/product_collection.php:74
+#: framework-customizations/theme/options/taxonomies/product_collection.php:318
+#: framework-customizations/theme/options/taxonomies/product_tag.php:74
+#: framework-customizations/theme/options/taxonomies/product_tag.php:318
+msgid "Left"
+msgstr ""
+
+#: framework-customizations/customizer/404-settings.php:114
+#: framework-customizations/customizer/blog-details-settings.php:96
+#: framework-customizations/customizer/blog-others-settings.php:95
+#: framework-customizations/customizer/blog-others-settings.php:286
+#: framework-customizations/customizer/blog-others-settings.php:477
+#: framework-customizations/customizer/blog-settings.php:114
+#: framework-customizations/customizer/blog-settings.php:331
+#: framework-customizations/customizer/page-settings.php:95
+#: framework-customizations/customizer/shop-brand-settings.php:95
+#: framework-customizations/customizer/shop-brand-settings.php:440
+#: framework-customizations/customizer/shop-category-settings.php:95
+#: framework-customizations/customizer/shop-category-settings.php:449
+#: framework-customizations/customizer/shop-collection-settings.php:95
+#: framework-customizations/customizer/shop-collection-settings.php:449
+#: framework-customizations/customizer/shop-product-settings.php:96
+#: framework-customizations/customizer/shop-search-settings.php:95
+#: framework-customizations/customizer/shop-settings.php:101
+#: framework-customizations/customizer/shop-settings.php:494
+#: framework-customizations/customizer/shop-tag-settings.php:95
+#: framework-customizations/customizer/shop-tag-settings.php:449
+#: framework-customizations/theme/options/posts/blocks.php:64
+#: framework-customizations/theme/options/posts/page.php:165
+#: framework-customizations/theme/options/posts/post.php:64
+#: framework-customizations/theme/options/posts/product.php:78
+#: framework-customizations/theme/options/taxonomies/category.php:71
+#: framework-customizations/theme/options/taxonomies/product_brand.php:75
+#: framework-customizations/theme/options/taxonomies/product_brand.php:319
+#: framework-customizations/theme/options/taxonomies/product_cat.php:75
+#: framework-customizations/theme/options/taxonomies/product_cat.php:319
+#: framework-customizations/theme/options/taxonomies/product_collection.php:75
+#: framework-customizations/theme/options/taxonomies/product_collection.php:319
+#: framework-customizations/theme/options/taxonomies/product_tag.php:75
+#: framework-customizations/theme/options/taxonomies/product_tag.php:319
+msgid "Center"
+msgstr ""
+
+#: framework-customizations/customizer/404-settings.php:115
+#: framework-customizations/customizer/blog-details-settings.php:97
+#: framework-customizations/customizer/blog-details-settings.php:168
+#: framework-customizations/customizer/blog-others-settings.php:96
+#: framework-customizations/customizer/blog-others-settings.php:287
+#: framework-customizations/customizer/blog-others-settings.php:478
+#: framework-customizations/customizer/blog-settings.php:115
+#: framework-customizations/customizer/blog-settings.php:332
+#: framework-customizations/customizer/page-settings.php:96
+#: framework-customizations/customizer/shop-brand-settings.php:96
+#: framework-customizations/customizer/shop-brand-settings.php:441
+#: framework-customizations/customizer/shop-category-settings.php:96
+#: framework-customizations/customizer/shop-category-settings.php:450
+#: framework-customizations/customizer/shop-collection-settings.php:96
+#: framework-customizations/customizer/shop-collection-settings.php:450
+#: framework-customizations/customizer/shop-product-settings.php:97
+#: framework-customizations/customizer/shop-search-settings.php:96
+#: framework-customizations/customizer/shop-settings.php:102
+#: framework-customizations/customizer/shop-settings.php:495
+#: framework-customizations/customizer/shop-tag-settings.php:96
+#: framework-customizations/customizer/shop-tag-settings.php:450
+#: framework-customizations/theme/options/posts/blocks.php:65
+#: framework-customizations/theme/options/posts/page.php:166
+#: framework-customizations/theme/options/posts/post.php:65
+#: framework-customizations/theme/options/posts/post.php:95
+#: framework-customizations/theme/options/posts/product.php:79
+#: framework-customizations/theme/options/taxonomies/category.php:72
+#: framework-customizations/theme/options/taxonomies/product_brand.php:76
+#: framework-customizations/theme/options/taxonomies/product_brand.php:320
+#: framework-customizations/theme/options/taxonomies/product_cat.php:76
+#: framework-customizations/theme/options/taxonomies/product_cat.php:320
+#: framework-customizations/theme/options/taxonomies/product_collection.php:76
+#: framework-customizations/theme/options/taxonomies/product_collection.php:320
+#: framework-customizations/theme/options/taxonomies/product_tag.php:76
+#: framework-customizations/theme/options/taxonomies/product_tag.php:320
+msgid "Right"
+msgstr ""
+
+#: framework-customizations/customizer/404-settings.php:128
+#: framework-customizations/customizer/blog-details-settings.php:110
+#: framework-customizations/customizer/blog-others-settings.php:109
+#: framework-customizations/customizer/blog-others-settings.php:300
+#: framework-customizations/customizer/blog-others-settings.php:491
+#: framework-customizations/customizer/blog-settings.php:128
+#: framework-customizations/customizer/page-settings.php:109
+#: framework-customizations/customizer/shop-brand-settings.php:109
+#: framework-customizations/customizer/shop-category-settings.php:109
+#: framework-customizations/customizer/shop-collection-settings.php:109
+#: framework-customizations/customizer/shop-product-settings.php:110
+#: framework-customizations/customizer/shop-search-settings.php:109
+#: framework-customizations/customizer/shop-settings.php:115
+#: framework-customizations/customizer/shop-tag-settings.php:109
+msgid "Banner Paddings"
+msgstr ""
+
+#: framework-customizations/customizer/404-settings.php:129
+#: framework-customizations/customizer/blog-details-settings.php:111
+#: framework-customizations/customizer/blog-others-settings.php:110
+#: framework-customizations/customizer/blog-others-settings.php:301
+#: framework-customizations/customizer/blog-others-settings.php:492
+#: framework-customizations/customizer/blog-settings.php:129
+#: framework-customizations/customizer/page-settings.php:110
+#: framework-customizations/customizer/shop-brand-settings.php:110
+#: framework-customizations/customizer/shop-category-settings.php:110
+#: framework-customizations/customizer/shop-collection-settings.php:110
+#: framework-customizations/customizer/shop-product-settings.php:111
+#: framework-customizations/customizer/shop-search-settings.php:110
+#: framework-customizations/customizer/shop-settings.php:116
+#: framework-customizations/customizer/shop-tag-settings.php:110
+msgid "Setup your banner paddings like 100px. Do not forget to insert unit."
+msgstr ""
+
+#: framework-customizations/customizer/404-settings.php:152
+#: framework-customizations/customizer/blog-details-settings.php:134
+#: framework-customizations/customizer/blog-others-settings.php:133
+#: framework-customizations/customizer/blog-others-settings.php:324
+#: framework-customizations/customizer/blog-others-settings.php:515
+#: framework-customizations/customizer/blog-settings.php:152
+#: framework-customizations/customizer/page-settings.php:126
+#: framework-customizations/customizer/shop-brand-settings.php:126
+#: framework-customizations/customizer/shop-category-settings.php:126
+#: framework-customizations/customizer/shop-collection-settings.php:126
+#: framework-customizations/customizer/shop-product-settings.php:127
+#: framework-customizations/customizer/shop-search-settings.php:126
+#: framework-customizations/customizer/shop-settings.php:133
+#: framework-customizations/customizer/shop-tag-settings.php:126
+msgid "Banner Title Color"
+msgstr ""
+
+#: framework-customizations/customizer/404-settings.php:173
+#: framework-customizations/customizer/blog-others-settings.php:154
+#: framework-customizations/customizer/blog-others-settings.php:345
+#: framework-customizations/customizer/blog-others-settings.php:536
+#: framework-customizations/customizer/blog-settings.php:173
+#: framework-customizations/customizer/page-settings.php:147
+#: framework-customizations/customizer/shop-brand-settings.php:147
+#: framework-customizations/customizer/shop-category-settings.php:147
+#: framework-customizations/customizer/shop-collection-settings.php:147
+#: framework-customizations/customizer/shop-product-settings.php:148
+#: framework-customizations/customizer/shop-search-settings.php:147
+#: framework-customizations/customizer/shop-settings.php:155
+#: framework-customizations/customizer/shop-tag-settings.php:147
+msgid "Bredcrumb Color"
+msgstr ""
+
+#: framework-customizations/customizer/404-settings.php:194
+#: framework-customizations/customizer/blog-others-settings.php:175
+#: framework-customizations/customizer/blog-others-settings.php:366
+#: framework-customizations/customizer/blog-others-settings.php:557
+#: framework-customizations/customizer/blog-settings.php:194
+#: framework-customizations/customizer/page-settings.php:168
+#: framework-customizations/customizer/shop-brand-settings.php:168
+#: framework-customizations/customizer/shop-category-settings.php:168
+#: framework-customizations/customizer/shop-collection-settings.php:168
+#: framework-customizations/customizer/shop-product-settings.php:169
+#: framework-customizations/customizer/shop-search-settings.php:168
+#: framework-customizations/customizer/shop-settings.php:177
+#: framework-customizations/customizer/shop-tag-settings.php:168
+msgid "Bredcrumb Link Hover Color"
+msgstr ""
+
+#: framework-customizations/customizer/404-settings.php:217
+msgid "404 Content Settings"
+msgstr ""
+
+#: framework-customizations/customizer/404-settings.php:222
+msgid "404 Title"
+msgstr ""
+
+#: framework-customizations/customizer/404-settings.php:229
+msgid "404 Sub Title"
+msgstr ""
+
+#: framework-customizations/customizer/404-settings.php:236
+msgid "404 Contents"
+msgstr ""
+
+#: framework-customizations/customizer/404-settings.php:243
+msgid "Is Home BTN?"
+msgstr ""
+
+#: framework-customizations/customizer/404-settings.php:247
+#: framework-customizations/customizer/general-settings.php:16
+msgid "Enable"
+msgstr ""
+
+#: framework-customizations/customizer/404-settings.php:248
+#: framework-customizations/customizer/general-settings.php:17
+msgid "Disable"
+msgstr ""
+
+#: framework-customizations/customizer/404-settings.php:254
+msgid "Home Btn Label"
+msgstr ""
+
+#: framework-customizations/customizer/404-settings.php:270
+msgid "404 Content Style"
+msgstr ""
+
+#: framework-customizations/customizer/404-settings.php:275
+msgid "Section Background"
+msgstr ""
+
+#: framework-customizations/customizer/404-settings.php:295
+msgid "404 Title Color"
+msgstr ""
+
+#: framework-customizations/customizer/404-settings.php:309
+msgid "404 Sub Title Color"
+msgstr ""
+
+#: framework-customizations/customizer/404-settings.php:323
+msgid "404 Content Color"
+msgstr ""
+
+#: framework-customizations/customizer/404-settings.php:337
+msgid "Home Btn Color"
+msgstr ""
+
+#: framework-customizations/customizer/404-settings.php:338
+#: framework-customizations/customizer/404-settings.php:368
+msgid "Insert your home btn Text color."
+msgstr ""
+
+#: framework-customizations/customizer/404-settings.php:352
+msgid "Home Btn BG Color"
+msgstr ""
+
+#: framework-customizations/customizer/404-settings.php:353
+#: framework-customizations/customizer/404-settings.php:383
+msgid "Insert your home btn BG color."
+msgstr ""
+
+#: framework-customizations/customizer/404-settings.php:367
+msgid "Home Btn Hover Color"
+msgstr ""
+
+#: framework-customizations/customizer/404-settings.php:382
+msgid "Home Btn Hover BG Color"
+msgstr ""
+
+#: framework-customizations/customizer/blog-details-settings.php:43
+msgid "Setup you single post page banner BG."
+msgstr ""
+
+#: framework-customizations/customizer/blog-details-settings.php:157
+#: framework-customizations/customizer/blog-settings.php:217
+#: framework-customizations/customizer/page-settings.php:191
+#: framework-customizations/customizer/shop-brand-settings.php:192
+#: framework-customizations/customizer/shop-category-settings.php:192
+#: framework-customizations/customizer/shop-collection-settings.php:192
+#: framework-customizations/customizer/shop-product-settings.php:193
+#: framework-customizations/customizer/shop-settings.php:203
+#: framework-customizations/customizer/shop-tag-settings.php:192
+#: framework-customizations/theme/options/posts/product.php:85
+msgid "Content Settings"
+msgstr ""
+
+#: framework-customizations/customizer/blog-details-settings.php:162
+#: framework-customizations/theme/options/posts/post.php:88
+msgid "Sidebar Position"
+msgstr ""
+
+#: framework-customizations/customizer/blog-details-settings.php:174
+#: framework-customizations/theme/options/posts/post.php:99
+msgid "Is Tags?"
+msgstr ""
+
+#: framework-customizations/customizer/blog-details-settings.php:185
+#: framework-customizations/customizer/blog-settings.php:278
+msgid "Is Social Share?"
+msgstr ""
+
+#: framework-customizations/customizer/blog-details-settings.php:196
+#: framework-customizations/customizer/quickview-settings.php:115
+#: framework-customizations/customizer/shop-product-settings.php:344
+#: framework-customizations/theme/options/posts/post.php:125
+#: framework-customizations/theme/options/posts/product.php:259
+msgid "Select Social Media"
+msgstr ""
+
+#: framework-customizations/customizer/blog-details-settings.php:200
+#: framework-customizations/customizer/blog-settings.php:300
+#: framework-customizations/customizer/quickview-settings.php:119
+#: framework-customizations/customizer/shop-product-settings.php:348
+#: framework-customizations/theme/options/posts/post.php:129
+#: framework-customizations/theme/options/posts/product.php:261
+#: woocommerce/share.php:51 woocommerce/share.php:52
+msgid "Facebook"
+msgstr ""
+
+#: framework-customizations/customizer/blog-details-settings.php:201
+#: framework-customizations/customizer/blog-settings.php:301
+#: framework-customizations/customizer/quickview-settings.php:120
+#: framework-customizations/customizer/shop-product-settings.php:349
+#: framework-customizations/theme/options/posts/post.php:130
+#: framework-customizations/theme/options/posts/product.php:262
+#: woocommerce/share.php:59 woocommerce/share.php:60
+msgid "Twitter"
+msgstr ""
+
+#: framework-customizations/customizer/blog-details-settings.php:202
+#: framework-customizations/customizer/blog-settings.php:302
+#: framework-customizations/customizer/quickview-settings.php:121
+#: framework-customizations/customizer/shop-product-settings.php:350
+#: framework-customizations/theme/options/posts/post.php:131
+#: framework-customizations/theme/options/posts/product.php:263
+#: woocommerce/share.php:75 woocommerce/share.php:76
+msgid "Email"
+msgstr ""
+
+#: framework-customizations/customizer/blog-details-settings.php:203
+#: framework-customizations/customizer/blog-settings.php:303
+#: framework-customizations/customizer/quickview-settings.php:122
+#: framework-customizations/customizer/shop-product-settings.php:351
+#: framework-customizations/theme/options/posts/post.php:132
+#: framework-customizations/theme/options/posts/product.php:264
+msgid "LinkedIn"
+msgstr ""
+
+#: framework-customizations/customizer/blog-details-settings.php:204
+#: framework-customizations/customizer/blog-settings.php:304
+#: framework-customizations/customizer/quickview-settings.php:123
+#: framework-customizations/customizer/shop-product-settings.php:352
+#: framework-customizations/theme/options/posts/post.php:133
+#: framework-customizations/theme/options/posts/product.php:265
+#: woocommerce/share.php:67 woocommerce/share.php:68
+msgid "Pinterest"
+msgstr ""
+
+#: framework-customizations/customizer/blog-details-settings.php:205
+#: framework-customizations/customizer/blog-settings.php:305
+#: framework-customizations/customizer/quickview-settings.php:124
+#: framework-customizations/customizer/shop-product-settings.php:353
+#: framework-customizations/theme/options/posts/post.php:134
+#: framework-customizations/theme/options/posts/product.php:266
+#: woocommerce/share.php:84
+msgid "Whatsapp"
+msgstr ""
+
+#: framework-customizations/customizer/blog-details-settings.php:206
+#: framework-customizations/customizer/blog-settings.php:306
+#: framework-customizations/customizer/quickview-settings.php:125
+#: framework-customizations/customizer/shop-product-settings.php:354
+#: framework-customizations/theme/options/posts/post.php:135
+#: framework-customizations/theme/options/posts/product.php:267
+msgid "Digg"
+msgstr ""
+
+#: framework-customizations/customizer/blog-details-settings.php:207
+#: framework-customizations/customizer/blog-settings.php:307
+#: framework-customizations/customizer/quickview-settings.php:126
+#: framework-customizations/customizer/shop-product-settings.php:355
+#: framework-customizations/theme/options/posts/post.php:136
+#: framework-customizations/theme/options/posts/product.php:268
+msgid "Tumblr"
+msgstr ""
+
+#: framework-customizations/customizer/blog-details-settings.php:208
+#: framework-customizations/customizer/blog-settings.php:308
+#: framework-customizations/customizer/quickview-settings.php:127
+#: framework-customizations/customizer/shop-product-settings.php:356
+#: framework-customizations/theme/options/posts/post.php:137
+#: framework-customizations/theme/options/posts/product.php:269
+msgid "Reddit"
+msgstr ""
+
+#: framework-customizations/customizer/blog-details-settings.php:221
+#: framework-customizations/theme/options/posts/post.php:141
+msgid "Is Post Pagination?"
+msgstr ""
+
+#: framework-customizations/customizer/blog-details-settings.php:232
+msgid "Is Author Info?"
+msgstr ""
+
+#: framework-customizations/customizer/blog-details-settings.php:246
+#: framework-customizations/customizer/blog-settings.php:360
+msgid "Blocks Settings"
+msgstr ""
+
+#: framework-customizations/customizer/blog-details-settings.php:250
+#: framework-customizations/customizer/blog-settings.php:364
+msgid "Add Blocks"
+msgstr ""
+
+#: framework-customizations/customizer/blog-details-settings.php:255
+#: framework-customizations/customizer/blog-details-settings.php:262
+#: framework-customizations/customizer/blog-settings.php:369
+#: framework-customizations/customizer/blog-settings.php:376
+#: framework-customizations/customizer/shop-brand-settings.php:486
+#: framework-customizations/customizer/shop-brand-settings.php:506
+#: framework-customizations/customizer/shop-category-settings.php:495
+#: framework-customizations/customizer/shop-category-settings.php:515
+#: framework-customizations/customizer/shop-collection-settings.php:495
+#: framework-customizations/customizer/shop-collection-settings.php:515
+#: framework-customizations/customizer/shop-settings.php:543
+#: framework-customizations/customizer/shop-settings.php:564
+#: framework-customizations/customizer/shop-tag-settings.php:495
+#: framework-customizations/customizer/shop-tag-settings.php:515
+msgid "Block"
+msgstr ""
+
+#: framework-customizations/customizer/blog-details-settings.php:257
+#: framework-customizations/customizer/blog-settings.php:371
+msgid "Add New Block"
+msgstr ""
+
+#: framework-customizations/customizer/blog-others-settings.php:7
+msgid "Search Result Banner Settings"
+msgstr ""
+
+#: framework-customizations/customizer/blog-others-settings.php:24
+msgid "Setup you search page banner BG."
+msgstr ""
+
+#: framework-customizations/customizer/blog-others-settings.php:53
+#: framework-customizations/customizer/blog-others-settings.php:244
+#: framework-customizations/customizer/blog-others-settings.php:435
+#: framework-customizations/customizer/page-settings.php:53
+msgid "Page Title"
+msgstr ""
+
+#: framework-customizations/customizer/blog-others-settings.php:198
+msgid "Archive Banner Settings"
+msgstr ""
+
+#: framework-customizations/customizer/blog-others-settings.php:215
+msgid "Setup you blog archive page banner BG."
+msgstr ""
+
+#: framework-customizations/customizer/blog-others-settings.php:389
+#: framework-customizations/theme/options/taxonomies/product_cat.php:7
+msgid "Category Banner Settings"
+msgstr ""
+
+#: framework-customizations/customizer/blog-others-settings.php:406
+msgid "Setup you blog Category page banner BG."
+msgstr ""
+
+#: framework-customizations/customizer/blog-settings.php:43
+msgid "Setup you blog page banner BG."
+msgstr ""
+
+#: framework-customizations/customizer/blog-settings.php:72
+#: template-parts/header/blog-header.php:2
+msgid "Latest News"
+msgstr ""
+
+#: framework-customizations/customizer/blog-settings.php:222
+msgid "Blog Sidebar Position"
+msgstr ""
+
+#: framework-customizations/customizer/blog-settings.php:226
+#: framework-customizations/customizer/page-settings.php:200
+#: framework-customizations/customizer/shop-brand-settings.php:201
+#: framework-customizations/customizer/shop-category-settings.php:201
+#: framework-customizations/customizer/shop-collection-settings.php:201
+#: framework-customizations/customizer/shop-settings.php:213
+#: framework-customizations/customizer/shop-tag-settings.php:201
+#: framework-customizations/theme/options/posts/page.php:195
+#: framework-customizations/theme/options/taxonomies/product_brand.php:105
+#: framework-customizations/theme/options/taxonomies/product_cat.php:105
+#: framework-customizations/theme/options/taxonomies/product_collection.php:105
+#: framework-customizations/theme/options/taxonomies/product_tag.php:105
+msgid "No Sidebar"
+msgstr ""
+
+#: framework-customizations/customizer/blog-settings.php:227
+#: framework-customizations/customizer/page-settings.php:201
+#: framework-customizations/customizer/shop-brand-settings.php:202
+#: framework-customizations/customizer/shop-category-settings.php:202
+#: framework-customizations/customizer/shop-collection-settings.php:202
+#: framework-customizations/customizer/shop-settings.php:214
+#: framework-customizations/customizer/shop-tag-settings.php:202
+#: framework-customizations/theme/options/posts/page.php:196
+#: framework-customizations/theme/options/taxonomies/product_brand.php:106
+#: framework-customizations/theme/options/taxonomies/product_cat.php:106
+#: framework-customizations/theme/options/taxonomies/product_collection.php:106
+#: framework-customizations/theme/options/taxonomies/product_tag.php:106
+msgid "Left Sidebar"
+msgstr ""
+
+#: framework-customizations/customizer/blog-settings.php:228
+#: framework-customizations/customizer/page-settings.php:202
+#: framework-customizations/customizer/shop-brand-settings.php:203
+#: framework-customizations/customizer/shop-category-settings.php:203
+#: framework-customizations/customizer/shop-collection-settings.php:203
+#: framework-customizations/customizer/shop-settings.php:215
+#: framework-customizations/customizer/shop-tag-settings.php:203
+#: framework-customizations/theme/options/posts/page.php:197
+#: framework-customizations/theme/options/taxonomies/product_brand.php:107
+#: framework-customizations/theme/options/taxonomies/product_cat.php:107
+#: framework-customizations/theme/options/taxonomies/product_collection.php:107
+#: framework-customizations/theme/options/taxonomies/product_tag.php:107
+msgid "Right Sidebar"
+msgstr ""
+
+#: framework-customizations/customizer/blog-settings.php:234
+msgid "Post View"
+msgstr ""
+
+#: framework-customizations/customizer/blog-settings.php:238
+#: framework-customizations/customizer/shop-brand-settings.php:299
+#: framework-customizations/customizer/shop-category-settings.php:299
+#: framework-customizations/customizer/shop-collection-settings.php:299
+#: framework-customizations/customizer/shop-settings.php:319
+#: framework-customizations/customizer/shop-tag-settings.php:299
+#: framework-customizations/theme/options/taxonomies/product_brand.php:199
+#: framework-customizations/theme/options/taxonomies/product_cat.php:199
+#: framework-customizations/theme/options/taxonomies/product_collection.php:199
+#: framework-customizations/theme/options/taxonomies/product_tag.php:199
+msgid "List View"
+msgstr ""
+
+#: framework-customizations/customizer/blog-settings.php:239
+#: framework-customizations/customizer/shop-brand-settings.php:298
+#: framework-customizations/customizer/shop-category-settings.php:298
+#: framework-customizations/customizer/shop-collection-settings.php:298
+#: framework-customizations/customizer/shop-settings.php:318
+#: framework-customizations/customizer/shop-tag-settings.php:298
+#: framework-customizations/theme/options/taxonomies/product_brand.php:198
+#: framework-customizations/theme/options/taxonomies/product_cat.php:198
+#: framework-customizations/theme/options/taxonomies/product_collection.php:198
+#: framework-customizations/theme/options/taxonomies/product_tag.php:198
+msgid "Grid View"
+msgstr ""
+
+#: framework-customizations/customizer/blog-settings.php:245
+msgid "Excerpt Limit"
+msgstr ""
+
+#: framework-customizations/customizer/blog-settings.php:264
+msgid "Button Label"
+msgstr ""
+
+#: framework-customizations/customizer/blog-settings.php:266
+#: page-templates/demo-blog-list-fullwidth.php:9
+#: page-templates/demo-blog-list-left-bar.php:9
+#: template-parts/post/content.php:5
+msgid "Read More"
+msgstr ""
+
+#: framework-customizations/customizer/blog-settings.php:296
+msgid "Select Post Share Social Media"
+msgstr ""
+
+#: framework-customizations/customizer/blog-settings.php:326
+msgid "Choose your pagination text alignment."
+msgstr ""
+
+#: framework-customizations/customizer/blog-settings.php:338
+#: framework-customizations/customizer/shop-brand-settings.php:447
+#: framework-customizations/customizer/shop-category-settings.php:456
+#: framework-customizations/customizer/shop-collection-settings.php:456
+#: framework-customizations/customizer/shop-settings.php:501
+#: framework-customizations/customizer/shop-tag-settings.php:456
+msgid "Pagination Gapping"
+msgstr ""
+
+#: framework-customizations/customizer/colorpreset-settings.php:7
+#: framework-customizations/customizer/colorpreset-settings.php:12
+msgid "Primary Color"
+msgstr ""
+
+#: framework-customizations/customizer/colorpreset-settings.php:13
+msgid ""
+"Insert your site primary color HEX code. this color option work all over the "
+"site."
+msgstr ""
+
+#: framework-customizations/customizer/colorpreset-settings.php:29
+#: framework-customizations/customizer/colorpreset-settings.php:34
+msgid "Secondary Color"
+msgstr ""
+
+#: framework-customizations/customizer/colorpreset-settings.php:35
+msgid ""
+"Insert your site secondary color HEX code. this color option work all over "
+"the site."
+msgstr ""
+
+#: framework-customizations/customizer/colorpreset-settings.php:51
+#: framework-customizations/customizer/colorpreset-settings.php:56
+msgid "Body Color"
+msgstr ""
+
+#: framework-customizations/customizer/colorpreset-settings.php:57
+msgid ""
+"Insert your site body color HEX code. this color option work all over the "
+"site."
+msgstr ""
+
+#: framework-customizations/customizer/colorpreset-settings.php:73
+#: framework-customizations/customizer/colorpreset-settings.php:78
+msgid "Headings Color"
+msgstr ""
+
+#: framework-customizations/customizer/colorpreset-settings.php:79
+msgid ""
+"Insert your site headings color HEX code. this color option work all over "
+"the site."
+msgstr ""
+
+#: framework-customizations/customizer/customizer-config.php:21
+msgid "Theme Options"
+msgstr ""
+
+#: framework-customizations/customizer/customizer-config.php:25
+msgid "General Settings"
+msgstr ""
+
+#: framework-customizations/customizer/customizer-config.php:27
+msgid "to change site loader and google map api."
+msgstr ""
+
+#: framework-customizations/customizer/customizer-config.php:32
+msgid "Typography Settings"
+msgstr ""
+
+#: framework-customizations/customizer/customizer-config.php:34
+msgid "Setup your site typography."
+msgstr ""
+
+#: framework-customizations/customizer/customizer-config.php:39
+msgid "Color Preset Settings"
+msgstr ""
+
+#: framework-customizations/customizer/customizer-config.php:41
+msgid "Setup your site accent color."
+msgstr ""
+
+#: framework-customizations/customizer/customizer-config.php:46
+#: framework-customizations/customizer/header-settings.php:26
+#: framework-customizations/customizer/header-settings.php:42
+msgid "Header Settings"
+msgstr ""
+
+#: framework-customizations/customizer/customizer-config.php:48
+msgid "Setup your site header."
+msgstr ""
+
+#: framework-customizations/customizer/customizer-config.php:53
+#: framework-customizations/customizer/header-styling.php:8
+msgid "Header Styling"
+msgstr ""
+
+#: framework-customizations/customizer/customizer-config.php:55
+msgid "Style up your site header."
+msgstr ""
+
+#: framework-customizations/customizer/customizer-config.php:60
+msgid "Shop Settings"
+msgstr ""
+
+#: framework-customizations/customizer/customizer-config.php:62
+msgid "Setup your shop pages."
+msgstr ""
+
+#: framework-customizations/customizer/customizer-config.php:67
+#: framework-customizations/customizer/quickview-settings.php:8
+msgid "Quick View Settings"
+msgstr ""
+
+#: framework-customizations/customizer/customizer-config.php:69
+msgid "Setup product quick view popup."
+msgstr ""
+
+#: framework-customizations/customizer/customizer-config.php:74
+msgid "Shop Category Settings"
+msgstr ""
+
+#: framework-customizations/customizer/customizer-config.php:76
+msgid "Setup your shop category page."
+msgstr ""
+
+#: framework-customizations/customizer/customizer-config.php:81
+msgid "Shop Tag Settings"
+msgstr ""
+
+#: framework-customizations/customizer/customizer-config.php:83
+msgid "Setup your shop tag page."
+msgstr ""
+
+#: framework-customizations/customizer/customizer-config.php:88
+msgid "Shop Brand Settings"
+msgstr ""
+
+#: framework-customizations/customizer/customizer-config.php:90
+msgid "Setup your shop brand page."
+msgstr ""
+
+#: framework-customizations/customizer/customizer-config.php:95
+msgid "Shop Collection Settings"
+msgstr ""
+
+#: framework-customizations/customizer/customizer-config.php:97
+msgid "Setup your shop Collection page."
+msgstr ""
+
+#: framework-customizations/customizer/customizer-config.php:102
+msgid "Shop Search Settings"
+msgstr ""
+
+#: framework-customizations/customizer/customizer-config.php:104
+msgid "Setup your shop search result page banner."
+msgstr ""
+
+#: framework-customizations/customizer/customizer-config.php:109
+#: framework-customizations/theme/options/posts/product.php:424
+msgid "Product Settings"
+msgstr ""
+
+#: framework-customizations/customizer/customizer-config.php:111
+msgid "Setup your product details page here."
+msgstr ""
+
+#: framework-customizations/customizer/customizer-config.php:116
+msgid "Blog Settings"
+msgstr ""
+
+#: framework-customizations/customizer/customizer-config.php:118
+msgid "Setup your blog pages."
+msgstr ""
+
+#: framework-customizations/customizer/customizer-config.php:123
+msgid "Blog Single Settings"
+msgstr ""
+
+#: framework-customizations/customizer/customizer-config.php:125
+msgid "Setup your blog details pages."
+msgstr ""
+
+#: framework-customizations/customizer/customizer-config.php:130
+msgid "Blog Others Banner Settings"
+msgstr ""
+
+#: framework-customizations/customizer/customizer-config.php:132
+msgid "Setup your blog related others pages banner ( Search, Archive)."
+msgstr ""
+
+#: framework-customizations/customizer/customizer-config.php:137
+#: framework-customizations/theme/options/posts/page.php:172
+msgid "Page Settings"
+msgstr ""
+
+#: framework-customizations/customizer/customizer-config.php:139
+msgid "Setup your page global options."
+msgstr ""
+
+#: framework-customizations/customizer/customizer-config.php:144
+#: framework-customizations/customizer/footer-settings.php:21
+msgid "Footer Settings"
+msgstr ""
+
+#: framework-customizations/customizer/customizer-config.php:146
+msgid "Setup your site footer here."
+msgstr ""
+
+#: framework-customizations/customizer/customizer-config.php:151
+msgid "404 Settings"
+msgstr ""
+
+#: framework-customizations/customizer/customizer-config.php:153
+msgid "Setting up your 404 page."
+msgstr ""
+
+#: framework-customizations/customizer/font-settings.php:5
+msgid "Primary Typography"
+msgstr ""
+
+#: framework-customizations/customizer/font-settings.php:16
+msgid ""
+"Primary typography by default effect on each element under body excepts some "
+"special elements those are under Secondary Typography."
+msgstr ""
+
+#: framework-customizations/customizer/font-settings.php:21
+msgid "Secondary Typography"
+msgstr ""
+
+#: framework-customizations/customizer/font-settings.php:60
+msgid ""
+"This typography settings only for those special elements and Its only used "
+"Font Family from options."
+msgstr ""
+
+#: framework-customizations/customizer/footer-settings.php:3
+#: framework-customizations/theme/options/posts/page.php:23
+msgid "Default Footer"
+msgstr ""
+
+#: framework-customizations/customizer/footer-settings.php:26
+#: framework-customizations/theme/options/posts/page.php:88
+msgid "Select Footer Style"
+msgstr ""
+
+#: framework-customizations/customizer/footer-settings.php:36
+msgid "Copyright Settings"
+msgstr ""
+
+#: framework-customizations/customizer/footer-settings.php:48
+msgid "Copyright Info"
+msgstr ""
+
+#: framework-customizations/customizer/footer-settings.php:50
+msgid " All rights reserved."
+msgstr ""
+
+#: framework-customizations/customizer/general-settings.php:7
+msgid "Global Site Settings"
+msgstr ""
+
+#: framework-customizations/customizer/general-settings.php:12
+msgid "Show Preloader"
+msgstr ""
+
+#: framework-customizations/customizer/general-settings.php:23
+msgid "Preloader"
+msgstr ""
+
+#: framework-customizations/customizer/general-settings.php:60
+msgid "Loader BG Color"
+msgstr ""
+
+#: framework-customizations/customizer/general-settings.php:61
+msgid "Insert your site loader backgourd color"
+msgstr ""
+
+#: framework-customizations/customizer/general-settings.php:85
+msgid "Loader Animation Color"
+msgstr ""
+
+#: framework-customizations/customizer/general-settings.php:86
+msgid "Insert your site loader animation color."
+msgstr ""
+
+#: framework-customizations/customizer/general-settings.php:132
+msgid "Google Map API Key"
+msgstr ""
+
+#: framework-customizations/customizer/header-settings.php:10
+#: framework-customizations/theme/options/posts/page.php:8
+msgid "Default Header"
+msgstr ""
+
+#: framework-customizations/customizer/header-settings.php:31
+msgid "Header Style"
+msgstr ""
+
+#: framework-customizations/customizer/header-settings.php:54
+msgid "Is Sticky?"
+msgstr ""
+
+#: framework-customizations/customizer/header-settings.php:72
+msgid "Logo"
+msgstr ""
+
+#: framework-customizations/customizer/header-settings.php:73
+msgid "Upload your site logo. Default logo size 140x42px."
+msgstr ""
+
+#: framework-customizations/customizer/header-styling.php:20
+msgid "Header BG"
+msgstr ""
+
+#: framework-customizations/customizer/header-styling.php:41
+msgid "Sticky Header BG"
+msgstr ""
+
+#: framework-customizations/customizer/header-styling.php:66
+msgid "Menu Item Styling"
+msgstr ""
+
+#: framework-customizations/customizer/header-styling.php:78
+msgid "Menu Level-1 Color"
+msgstr ""
+
+#: framework-customizations/customizer/header-styling.php:99
+msgid "Menu Level-1 Hover Color"
+msgstr ""
+
+#: framework-customizations/customizer/header-styling.php:120
+msgid "Menu Level-2 BG Color"
+msgstr ""
+
+#: framework-customizations/customizer/header-styling.php:141
+msgid "Menu Level-2 Item Color"
+msgstr ""
+
+#: framework-customizations/customizer/header-styling.php:162
+msgid "Menu Level-2 Item Hover Color"
+msgstr ""
+
+#: framework-customizations/customizer/page-settings.php:24
+msgid "Setup your page banner BG."
+msgstr ""
+
+#: framework-customizations/customizer/page-settings.php:196
+#: framework-customizations/theme/options/posts/page.php:190
+msgid "Sidebar Template"
+msgstr ""
+
+#: framework-customizations/customizer/quickview-settings.php:13
+#: framework-customizations/customizer/shop-product-settings.php:220
+msgid "Is Flash Labels?"
+msgstr ""
+
+#: framework-customizations/customizer/quickview-settings.php:24
+#: framework-customizations/customizer/shop-product-settings.php:231
+#: framework-customizations/theme/options/posts/product.php:137
+msgid "Is Category?"
+msgstr ""
+
+#: framework-customizations/customizer/quickview-settings.php:35
+#: framework-customizations/customizer/shop-product-settings.php:242
+msgid "Is Show Rating?"
+msgstr ""
+
+#: framework-customizations/customizer/quickview-settings.php:46
+#: framework-customizations/customizer/shop-product-settings.php:253
+#: framework-customizations/theme/options/posts/product.php:163
+msgid "Is Stock?"
+msgstr ""
+
+#: framework-customizations/customizer/quickview-settings.php:57
+#: framework-customizations/customizer/shop-product-settings.php:264
+msgid "Stock Label"
+msgstr ""
+
+#: framework-customizations/customizer/quickview-settings.php:59
+#: framework-customizations/customizer/shop-product-settings.php:266
+msgid "Available: "
+msgstr ""
+
+#: framework-customizations/customizer/quickview-settings.php:71
+#: framework-customizations/customizer/shop-brand-settings.php:401
+#: framework-customizations/customizer/shop-category-settings.php:371
+#: framework-customizations/customizer/shop-collection-settings.php:371
+#: framework-customizations/customizer/shop-product-settings.php:300
+#: framework-customizations/customizer/shop-product-settings.php:459
+#: framework-customizations/customizer/shop-settings.php:396
+#: framework-customizations/customizer/shop-tag-settings.php:371
+#: framework-customizations/theme/options/posts/product.php:339
+#: framework-customizations/theme/options/taxonomies/product_brand.php:256
+#: framework-customizations/theme/options/taxonomies/product_cat.php:256
+#: framework-customizations/theme/options/taxonomies/product_collection.php:256
+#: framework-customizations/theme/options/taxonomies/product_tag.php:256
+msgid "Is Wishlist?"
+msgstr ""
+
+#: framework-customizations/customizer/quickview-settings.php:82
+#: framework-customizations/customizer/shop-product-settings.php:311
+#: framework-customizations/theme/options/posts/product.php:213
+msgid "Is SKU?"
+msgstr ""
+
+#: framework-customizations/customizer/quickview-settings.php:93
+#: framework-customizations/customizer/shop-product-settings.php:322
+#: framework-customizations/theme/options/posts/product.php:226
+msgid "Is Tag?"
+msgstr ""
+
+#: framework-customizations/customizer/quickview-settings.php:104
+#: framework-customizations/customizer/shop-product-settings.php:333
+#: framework-customizations/theme/options/posts/product.php:239
+msgid "Is Social?"
+msgstr ""
+
+#: framework-customizations/customizer/shop-brand-settings.php:24
+msgid "Setup you shop brand page banner BG."
+msgstr ""
+
+#: framework-customizations/customizer/shop-brand-settings.php:197
+#: framework-customizations/customizer/shop-category-settings.php:197
+#: framework-customizations/customizer/shop-collection-settings.php:197
+#: framework-customizations/customizer/shop-settings.php:208
+#: framework-customizations/customizer/shop-tag-settings.php:197
+#: framework-customizations/theme/options/taxonomies/product_brand.php:101
+#: framework-customizations/theme/options/taxonomies/product_cat.php:101
+#: framework-customizations/theme/options/taxonomies/product_collection.php:101
+#: framework-customizations/theme/options/taxonomies/product_tag.php:101
+msgid "Shop Sidebar Position"
+msgstr ""
+
+#: framework-customizations/customizer/shop-brand-settings.php:209
+#: framework-customizations/customizer/shop-category-settings.php:209
+#: framework-customizations/customizer/shop-collection-settings.php:209
+#: framework-customizations/customizer/shop-tag-settings.php:209
+#: framework-customizations/theme/options/taxonomies/product_brand.php:111
+#: framework-customizations/theme/options/taxonomies/product_cat.php:111
+#: framework-customizations/theme/options/taxonomies/product_collection.php:111
+#: framework-customizations/theme/options/taxonomies/product_tag.php:111
+msgid "Shop product column for xl device."
+msgstr ""
+
+#: framework-customizations/customizer/shop-brand-settings.php:213
+#: framework-customizations/customizer/shop-category-settings.php:213
+#: framework-customizations/customizer/shop-collection-settings.php:213
+#: framework-customizations/customizer/shop-settings.php:226
+#: framework-customizations/customizer/shop-tag-settings.php:213
+#: framework-customizations/theme/options/taxonomies/product_brand.php:115
+#: framework-customizations/theme/options/taxonomies/product_cat.php:115
+#: framework-customizations/theme/options/taxonomies/product_collection.php:115
+#: framework-customizations/theme/options/taxonomies/product_tag.php:115
+msgid "Col XL 2"
+msgstr ""
+
+#: framework-customizations/customizer/shop-brand-settings.php:214
+#: framework-customizations/customizer/shop-category-settings.php:214
+#: framework-customizations/customizer/shop-collection-settings.php:214
+#: framework-customizations/customizer/shop-settings.php:227
+#: framework-customizations/customizer/shop-tag-settings.php:214
+#: framework-customizations/theme/options/taxonomies/product_brand.php:116
+#: framework-customizations/theme/options/taxonomies/product_cat.php:116
+#: framework-customizations/theme/options/taxonomies/product_collection.php:116
+#: framework-customizations/theme/options/taxonomies/product_tag.php:116
+msgid "Col XL 3"
+msgstr ""
+
+#: framework-customizations/customizer/shop-brand-settings.php:215
+#: framework-customizations/customizer/shop-category-settings.php:215
+#: framework-customizations/customizer/shop-collection-settings.php:215
+#: framework-customizations/customizer/shop-settings.php:228
+#: framework-customizations/customizer/shop-tag-settings.php:215
+#: framework-customizations/theme/options/taxonomies/product_brand.php:117
+#: framework-customizations/theme/options/taxonomies/product_cat.php:117
+#: framework-customizations/theme/options/taxonomies/product_collection.php:117
+#: framework-customizations/theme/options/taxonomies/product_tag.php:117
+msgid "Col XL 4"
+msgstr ""
+
+#: framework-customizations/customizer/shop-brand-settings.php:216
+#: framework-customizations/customizer/shop-category-settings.php:216
+#: framework-customizations/customizer/shop-collection-settings.php:216
+#: framework-customizations/customizer/shop-settings.php:229
+#: framework-customizations/customizer/shop-tag-settings.php:216
+#: framework-customizations/theme/options/taxonomies/product_brand.php:118
+#: framework-customizations/theme/options/taxonomies/product_cat.php:118
+#: framework-customizations/theme/options/taxonomies/product_collection.php:118
+#: framework-customizations/theme/options/taxonomies/product_tag.php:118
+msgid "Col XL 6"
+msgstr ""
+
+#: framework-customizations/customizer/shop-brand-settings.php:222
+#: framework-customizations/customizer/shop-category-settings.php:222
+#: framework-customizations/customizer/shop-collection-settings.php:222
+#: framework-customizations/customizer/shop-tag-settings.php:222
+#: framework-customizations/theme/options/taxonomies/product_brand.php:122
+#: framework-customizations/theme/options/taxonomies/product_cat.php:122
+#: framework-customizations/theme/options/taxonomies/product_collection.php:122
+#: framework-customizations/theme/options/taxonomies/product_tag.php:122
+msgid "Shop product column for lg device."
+msgstr ""
+
+#: framework-customizations/customizer/shop-brand-settings.php:226
+#: framework-customizations/customizer/shop-category-settings.php:226
+#: framework-customizations/customizer/shop-collection-settings.php:226
+#: framework-customizations/customizer/shop-settings.php:240
+#: framework-customizations/customizer/shop-tag-settings.php:226
+#: framework-customizations/theme/options/taxonomies/product_brand.php:126
+#: framework-customizations/theme/options/taxonomies/product_cat.php:126
+#: framework-customizations/theme/options/taxonomies/product_collection.php:126
+#: framework-customizations/theme/options/taxonomies/product_tag.php:126
+msgid "Col LG 2"
+msgstr ""
+
+#: framework-customizations/customizer/shop-brand-settings.php:227
+#: framework-customizations/customizer/shop-category-settings.php:227
+#: framework-customizations/customizer/shop-collection-settings.php:227
+#: framework-customizations/customizer/shop-settings.php:241
+#: framework-customizations/customizer/shop-tag-settings.php:227
+#: framework-customizations/theme/options/taxonomies/product_brand.php:127
+#: framework-customizations/theme/options/taxonomies/product_cat.php:127
+#: framework-customizations/theme/options/taxonomies/product_collection.php:127
+#: framework-customizations/theme/options/taxonomies/product_tag.php:127
+msgid "Col LG 3"
+msgstr ""
+
+#: framework-customizations/customizer/shop-brand-settings.php:228
+#: framework-customizations/customizer/shop-category-settings.php:228
+#: framework-customizations/customizer/shop-collection-settings.php:228
+#: framework-customizations/customizer/shop-settings.php:242
+#: framework-customizations/customizer/shop-tag-settings.php:228
+#: framework-customizations/theme/options/taxonomies/product_brand.php:128
+#: framework-customizations/theme/options/taxonomies/product_cat.php:128
+#: framework-customizations/theme/options/taxonomies/product_collection.php:128
+#: framework-customizations/theme/options/taxonomies/product_tag.php:128
+msgid "Col LG 4"
+msgstr ""
+
+#: framework-customizations/customizer/shop-brand-settings.php:229
+#: framework-customizations/customizer/shop-category-settings.php:229
+#: framework-customizations/customizer/shop-collection-settings.php:229
+#: framework-customizations/customizer/shop-settings.php:243
+#: framework-customizations/customizer/shop-tag-settings.php:229
+#: framework-customizations/theme/options/taxonomies/product_brand.php:129
+#: framework-customizations/theme/options/taxonomies/product_cat.php:129
+#: framework-customizations/theme/options/taxonomies/product_collection.php:129
+#: framework-customizations/theme/options/taxonomies/product_tag.php:129
+msgid "Col LG 6"
+msgstr ""
+
+#: framework-customizations/customizer/shop-brand-settings.php:235
+#: framework-customizations/customizer/shop-category-settings.php:235
+#: framework-customizations/customizer/shop-collection-settings.php:235
+#: framework-customizations/customizer/shop-tag-settings.php:235
+#: framework-customizations/theme/options/taxonomies/product_brand.php:133
+#: framework-customizations/theme/options/taxonomies/product_cat.php:133
+#: framework-customizations/theme/options/taxonomies/product_collection.php:133
+#: framework-customizations/theme/options/taxonomies/product_tag.php:133
+msgid "Shop product column for md device."
+msgstr ""
+
+#: framework-customizations/customizer/shop-brand-settings.php:239
+#: framework-customizations/customizer/shop-category-settings.php:239
+#: framework-customizations/customizer/shop-collection-settings.php:239
+#: framework-customizations/customizer/shop-settings.php:254
+#: framework-customizations/customizer/shop-tag-settings.php:239
+#: framework-customizations/theme/options/taxonomies/product_brand.php:137
+#: framework-customizations/theme/options/taxonomies/product_cat.php:137
+#: framework-customizations/theme/options/taxonomies/product_collection.php:137
+#: framework-customizations/theme/options/taxonomies/product_tag.php:137
+msgid "Col MD 2"
+msgstr ""
+
+#: framework-customizations/customizer/shop-brand-settings.php:240
+#: framework-customizations/customizer/shop-category-settings.php:240
+#: framework-customizations/customizer/shop-collection-settings.php:240
+#: framework-customizations/customizer/shop-settings.php:255
+#: framework-customizations/customizer/shop-tag-settings.php:240
+#: framework-customizations/theme/options/taxonomies/product_brand.php:138
+#: framework-customizations/theme/options/taxonomies/product_cat.php:138
+#: framework-customizations/theme/options/taxonomies/product_collection.php:138
+#: framework-customizations/theme/options/taxonomies/product_tag.php:138
+msgid "Col MD 3"
+msgstr ""
+
+#: framework-customizations/customizer/shop-brand-settings.php:241
+#: framework-customizations/customizer/shop-category-settings.php:241
+#: framework-customizations/customizer/shop-collection-settings.php:241
+#: framework-customizations/customizer/shop-settings.php:256
+#: framework-customizations/customizer/shop-tag-settings.php:241
+#: framework-customizations/theme/options/taxonomies/product_brand.php:139
+#: framework-customizations/theme/options/taxonomies/product_cat.php:139
+#: framework-customizations/theme/options/taxonomies/product_collection.php:139
+#: framework-customizations/theme/options/taxonomies/product_tag.php:139
+msgid "Col MD 4"
+msgstr ""
+
+#: framework-customizations/customizer/shop-brand-settings.php:242
+#: framework-customizations/customizer/shop-category-settings.php:242
+#: framework-customizations/customizer/shop-collection-settings.php:242
+#: framework-customizations/customizer/shop-settings.php:257
+#: framework-customizations/customizer/shop-tag-settings.php:242
+#: framework-customizations/theme/options/taxonomies/product_brand.php:140
+#: framework-customizations/theme/options/taxonomies/product_cat.php:140
+#: framework-customizations/theme/options/taxonomies/product_collection.php:140
+#: framework-customizations/theme/options/taxonomies/product_tag.php:140
+msgid "Col MD 6"
+msgstr ""
+
+#: framework-customizations/customizer/shop-brand-settings.php:248
+#: framework-customizations/customizer/shop-category-settings.php:248
+#: framework-customizations/customizer/shop-collection-settings.php:248
+#: framework-customizations/customizer/shop-settings.php:263
+msgid "Shop product column for SM device."
+msgstr ""
+
+#: framework-customizations/customizer/shop-brand-settings.php:252
+#: framework-customizations/customizer/shop-category-settings.php:252
+#: framework-customizations/customizer/shop-collection-settings.php:252
+#: framework-customizations/customizer/shop-settings.php:268
+#: framework-customizations/customizer/shop-tag-settings.php:252
+#: framework-customizations/theme/options/taxonomies/product_brand.php:148
+#: framework-customizations/theme/options/taxonomies/product_cat.php:148
+#: framework-customizations/theme/options/taxonomies/product_collection.php:148
+#: framework-customizations/theme/options/taxonomies/product_tag.php:148
+msgid "Col SM 2"
+msgstr ""
+
+#: framework-customizations/customizer/shop-brand-settings.php:253
+#: framework-customizations/customizer/shop-category-settings.php:253
+#: framework-customizations/customizer/shop-collection-settings.php:253
+#: framework-customizations/customizer/shop-settings.php:269
+#: framework-customizations/customizer/shop-tag-settings.php:253
+#: framework-customizations/theme/options/taxonomies/product_brand.php:149
+#: framework-customizations/theme/options/taxonomies/product_cat.php:149
+#: framework-customizations/theme/options/taxonomies/product_collection.php:149
+#: framework-customizations/theme/options/taxonomies/product_tag.php:149
+msgid "Col SM 3"
+msgstr ""
+
+#: framework-customizations/customizer/shop-brand-settings.php:254
+#: framework-customizations/customizer/shop-category-settings.php:254
+#: framework-customizations/customizer/shop-collection-settings.php:254
+#: framework-customizations/customizer/shop-settings.php:270
+#: framework-customizations/customizer/shop-tag-settings.php:254
+#: framework-customizations/theme/options/taxonomies/product_brand.php:150
+#: framework-customizations/theme/options/taxonomies/product_cat.php:150
+#: framework-customizations/theme/options/taxonomies/product_collection.php:150
+#: framework-customizations/theme/options/taxonomies/product_tag.php:150
+msgid "Col SM 4"
+msgstr ""
+
+#: framework-customizations/customizer/shop-brand-settings.php:255
+#: framework-customizations/customizer/shop-category-settings.php:255
+#: framework-customizations/customizer/shop-collection-settings.php:255
+#: framework-customizations/customizer/shop-settings.php:271
+#: framework-customizations/customizer/shop-tag-settings.php:255
+#: framework-customizations/theme/options/taxonomies/product_brand.php:151
+#: framework-customizations/theme/options/taxonomies/product_cat.php:151
+#: framework-customizations/theme/options/taxonomies/product_collection.php:151
+#: framework-customizations/theme/options/taxonomies/product_tag.php:151
+msgid "Col SM 6"
+msgstr ""
+
+#: framework-customizations/customizer/shop-brand-settings.php:261
+#: framework-customizations/customizer/shop-category-settings.php:261
+#: framework-customizations/customizer/shop-collection-settings.php:261
+#: framework-customizations/customizer/shop-settings.php:277
+#: framework-customizations/customizer/shop-tag-settings.php:261
+#: framework-customizations/theme/options/taxonomies/product_brand.php:155
+#: framework-customizations/theme/options/taxonomies/product_cat.php:155
+#: framework-customizations/theme/options/taxonomies/product_collection.php:155
+#: framework-customizations/theme/options/taxonomies/product_tag.php:155
+msgid "Show Product Count?"
+msgstr ""
+
+#: framework-customizations/customizer/shop-brand-settings.php:272
+#: framework-customizations/customizer/shop-category-settings.php:272
+#: framework-customizations/customizer/shop-collection-settings.php:272
+#: framework-customizations/customizer/shop-settings.php:289
+#: framework-customizations/customizer/shop-tag-settings.php:272
+#: framework-customizations/theme/options/taxonomies/product_brand.php:168
+#: framework-customizations/theme/options/taxonomies/product_cat.php:168
+#: framework-customizations/theme/options/taxonomies/product_collection.php:168
+#: framework-customizations/theme/options/taxonomies/product_tag.php:168
+msgid "Is Sort?"
+msgstr ""
+
+#: framework-customizations/customizer/shop-brand-settings.php:283
+#: framework-customizations/customizer/shop-category-settings.php:283
+#: framework-customizations/customizer/shop-collection-settings.php:283
+#: framework-customizations/customizer/shop-settings.php:301
+#: framework-customizations/customizer/shop-tag-settings.php:283
+#: framework-customizations/theme/options/taxonomies/product_brand.php:181
+#: framework-customizations/theme/options/taxonomies/product_cat.php:181
+#: framework-customizations/theme/options/taxonomies/product_collection.php:181
+#: framework-customizations/theme/options/taxonomies/product_tag.php:181
+msgid "Is View Toggler?"
+msgstr ""
+
+#: framework-customizations/customizer/shop-brand-settings.php:294
+#: framework-customizations/customizer/shop-category-settings.php:294
+#: framework-customizations/customizer/shop-collection-settings.php:294
+#: framework-customizations/customizer/shop-settings.php:313
+#: framework-customizations/customizer/shop-tag-settings.php:294
+#: framework-customizations/theme/options/taxonomies/product_brand.php:194
+#: framework-customizations/theme/options/taxonomies/product_cat.php:194
+#: framework-customizations/theme/options/taxonomies/product_collection.php:194
+#: framework-customizations/theme/options/taxonomies/product_tag.php:194
+msgid "Default View"
+msgstr ""
+
+#: framework-customizations/customizer/shop-brand-settings.php:312
+msgid "Prduct List View Style"
+msgstr ""
+
+#: framework-customizations/customizer/shop-brand-settings.php:316
+msgid "With Shadow"
+msgstr ""
+
+#: framework-customizations/customizer/shop-brand-settings.php:317
+msgid "With Border"
+msgstr ""
+
+#: framework-customizations/customizer/shop-brand-settings.php:330
+msgid "Product Grid View Style"
+msgstr ""
+
+#: framework-customizations/customizer/shop-brand-settings.php:334
+msgid "Style 01"
+msgstr ""
+
+#: framework-customizations/customizer/shop-brand-settings.php:335
+msgid "Style 02"
+msgstr ""
+
+#: framework-customizations/customizer/shop-brand-settings.php:336
+msgid "Style 03"
+msgstr ""
+
+#: framework-customizations/customizer/shop-brand-settings.php:342
+#: framework-customizations/customizer/shop-category-settings.php:312
+#: framework-customizations/customizer/shop-collection-settings.php:312
+#: framework-customizations/customizer/shop-settings.php:332
+#: framework-customizations/customizer/shop-tag-settings.php:312
+#: framework-customizations/theme/options/taxonomies/product_brand.php:210
+#: framework-customizations/theme/options/taxonomies/product_cat.php:210
+#: framework-customizations/theme/options/taxonomies/product_collection.php:210
+#: framework-customizations/theme/options/taxonomies/product_tag.php:210
+msgid "Grid Thumbnail Width"
+msgstr ""
+
+#: framework-customizations/customizer/shop-brand-settings.php:354
+#: framework-customizations/customizer/shop-category-settings.php:324
+#: framework-customizations/customizer/shop-collection-settings.php:324
+#: framework-customizations/customizer/shop-settings.php:345
+#: framework-customizations/customizer/shop-tag-settings.php:324
+#: framework-customizations/theme/options/taxonomies/product_brand.php:220
+#: framework-customizations/theme/options/taxonomies/product_cat.php:220
+#: framework-customizations/theme/options/taxonomies/product_collection.php:220
+#: framework-customizations/theme/options/taxonomies/product_tag.php:220
+msgid "Grid Thumbnail Height"
+msgstr ""
+
+#: framework-customizations/customizer/shop-brand-settings.php:366
+#: framework-customizations/customizer/shop-category-settings.php:336
+#: framework-customizations/customizer/shop-collection-settings.php:336
+#: framework-customizations/customizer/shop-settings.php:358
+#: framework-customizations/customizer/shop-tag-settings.php:336
+#: framework-customizations/theme/options/taxonomies/product_brand.php:230
+#: framework-customizations/theme/options/taxonomies/product_cat.php:230
+#: framework-customizations/theme/options/taxonomies/product_collection.php:230
+#: framework-customizations/theme/options/taxonomies/product_tag.php:230
+msgid "List Thumbnail Width"
+msgstr ""
+
+#: framework-customizations/customizer/shop-brand-settings.php:378
+#: framework-customizations/customizer/shop-category-settings.php:348
+#: framework-customizations/customizer/shop-collection-settings.php:348
+#: framework-customizations/customizer/shop-settings.php:371
+#: framework-customizations/customizer/shop-tag-settings.php:348
+#: framework-customizations/theme/options/taxonomies/product_brand.php:240
+#: framework-customizations/theme/options/taxonomies/product_cat.php:240
+#: framework-customizations/theme/options/taxonomies/product_collection.php:240
+#: framework-customizations/theme/options/taxonomies/product_tag.php:240
+msgid "List Thumbnail Height"
+msgstr ""
+
+#: framework-customizations/customizer/shop-brand-settings.php:390
+#: framework-customizations/customizer/shop-category-settings.php:360
+#: framework-customizations/customizer/shop-collection-settings.php:360
+#: framework-customizations/customizer/shop-product-settings.php:441
+#: framework-customizations/customizer/shop-settings.php:384
+#: framework-customizations/customizer/shop-tag-settings.php:360
+#: framework-customizations/theme/options/taxonomies/product_brand.php:243
+#: framework-customizations/theme/options/taxonomies/product_cat.php:243
+#: framework-customizations/theme/options/taxonomies/product_collection.php:243
+#: framework-customizations/theme/options/taxonomies/product_tag.php:243
+msgid "Is Flash Lebels?"
+msgstr ""
+
+#: framework-customizations/customizer/shop-brand-settings.php:412
+#: framework-customizations/customizer/shop-category-settings.php:382
+#: framework-customizations/customizer/shop-collection-settings.php:382
+#: framework-customizations/customizer/shop-product-settings.php:477
+#: framework-customizations/customizer/shop-settings.php:408
+#: framework-customizations/customizer/shop-tag-settings.php:382
+#: framework-customizations/theme/options/taxonomies/product_brand.php:269
+#: framework-customizations/theme/options/taxonomies/product_cat.php:269
+#: framework-customizations/theme/options/taxonomies/product_collection.php:269
+#: framework-customizations/theme/options/taxonomies/product_tag.php:269
+msgid "Is Quick View?"
+msgstr ""
+
+#: framework-customizations/customizer/shop-brand-settings.php:423
+msgid "Is Empty Rating?"
+msgstr ""
+
+#: framework-customizations/customizer/shop-brand-settings.php:424
+msgid ""
+"Dow you want to show empty rating start where thers is no rating available "
+"for the product?"
+msgstr ""
+
+#: framework-customizations/customizer/shop-brand-settings.php:435
+#: framework-customizations/customizer/shop-category-settings.php:444
+#: framework-customizations/customizer/shop-collection-settings.php:444
+#: framework-customizations/customizer/shop-settings.php:488
+#: framework-customizations/customizer/shop-tag-settings.php:444
+#: framework-customizations/theme/options/taxonomies/product_brand.php:314
+#: framework-customizations/theme/options/taxonomies/product_cat.php:314
+#: framework-customizations/theme/options/taxonomies/product_collection.php:314
+#: framework-customizations/theme/options/taxonomies/product_tag.php:314
+msgid "Pagination Alignment"
+msgstr ""
+
+#: framework-customizations/customizer/shop-brand-settings.php:470
+#: framework-customizations/customizer/shop-category-settings.php:479
+#: framework-customizations/customizer/shop-collection-settings.php:479
+#: framework-customizations/customizer/shop-settings.php:526
+#: framework-customizations/customizer/shop-tag-settings.php:479
+#: framework-customizations/theme/options/taxonomies/product_brand.php:328
+#: framework-customizations/theme/options/taxonomies/product_cat.php:328
+#: framework-customizations/theme/options/taxonomies/product_collection.php:328
+#: framework-customizations/theme/options/taxonomies/product_tag.php:328
+msgid "Top / Bottom Blocks Settings"
+msgstr ""
+
+#: framework-customizations/customizer/shop-brand-settings.php:474
+#: framework-customizations/customizer/shop-category-settings.php:483
+#: framework-customizations/customizer/shop-collection-settings.php:483
+#: framework-customizations/customizer/shop-settings.php:530
+#: framework-customizations/customizer/shop-tag-settings.php:483
+#: framework-customizations/theme/options/taxonomies/product_brand.php:333
+#: framework-customizations/theme/options/taxonomies/product_cat.php:333
+#: framework-customizations/theme/options/taxonomies/product_collection.php:333
+#: framework-customizations/theme/options/taxonomies/product_tag.php:333
+msgid "Add Top Blocks"
+msgstr ""
+
+#: framework-customizations/customizer/shop-brand-settings.php:479
+#: framework-customizations/customizer/shop-category-settings.php:488
+#: framework-customizations/customizer/shop-collection-settings.php:488
+#: framework-customizations/customizer/shop-settings.php:536
+#: framework-customizations/customizer/shop-tag-settings.php:488
+#: framework-customizations/theme/options/taxonomies/product_brand.php:336
+#: framework-customizations/theme/options/taxonomies/product_cat.php:336
+#: framework-customizations/theme/options/taxonomies/product_collection.php:336
+#: framework-customizations/theme/options/taxonomies/product_tag.php:336
+msgid "Top Block"
+msgstr ""
+
+#: framework-customizations/customizer/shop-brand-settings.php:481
+#: framework-customizations/customizer/shop-category-settings.php:490
+#: framework-customizations/customizer/shop-collection-settings.php:490
+#: framework-customizations/customizer/shop-settings.php:538
+#: framework-customizations/customizer/shop-tag-settings.php:490
+#: framework-customizations/theme/options/taxonomies/product_brand.php:344
+#: framework-customizations/theme/options/taxonomies/product_cat.php:344
+#: framework-customizations/theme/options/taxonomies/product_collection.php:344
+#: framework-customizations/theme/options/taxonomies/product_tag.php:344
+msgid "Add Top Block"
+msgstr ""
+
+#: framework-customizations/customizer/shop-brand-settings.php:488
+#: framework-customizations/customizer/shop-brand-settings.php:508
+#: framework-customizations/customizer/shop-category-settings.php:497
+#: framework-customizations/customizer/shop-category-settings.php:517
+#: framework-customizations/customizer/shop-collection-settings.php:497
+#: framework-customizations/customizer/shop-collection-settings.php:517
+#: framework-customizations/customizer/shop-settings.php:545
+#: framework-customizations/customizer/shop-settings.php:566
+#: framework-customizations/customizer/shop-tag-settings.php:497
+#: framework-customizations/customizer/shop-tag-settings.php:517
+#: framework-customizations/theme/options/taxonomies/product_brand.php:338
+#: framework-customizations/theme/options/taxonomies/product_brand.php:355
+#: framework-customizations/theme/options/taxonomies/product_cat.php:338
+#: framework-customizations/theme/options/taxonomies/product_cat.php:355
+#: framework-customizations/theme/options/taxonomies/product_collection.php:338
+#: framework-customizations/theme/options/taxonomies/product_collection.php:355
+#: framework-customizations/theme/options/taxonomies/product_tag.php:338
+#: framework-customizations/theme/options/taxonomies/product_tag.php:355
+msgid "All Blocks"
+msgstr ""
+
+#: framework-customizations/customizer/shop-brand-settings.php:494
+#: framework-customizations/customizer/shop-category-settings.php:503
+#: framework-customizations/customizer/shop-collection-settings.php:503
+#: framework-customizations/customizer/shop-settings.php:551
+#: framework-customizations/customizer/shop-tag-settings.php:503
+#: framework-customizations/theme/options/taxonomies/product_brand.php:350
+#: framework-customizations/theme/options/taxonomies/product_cat.php:350
+#: framework-customizations/theme/options/taxonomies/product_collection.php:350
+#: framework-customizations/theme/options/taxonomies/product_tag.php:350
+msgid "Add Bottom Blocks"
+msgstr ""
+
+#: framework-customizations/customizer/shop-brand-settings.php:499
+#: framework-customizations/customizer/shop-category-settings.php:508
+#: framework-customizations/customizer/shop-collection-settings.php:508
+#: framework-customizations/customizer/shop-settings.php:557
+#: framework-customizations/customizer/shop-tag-settings.php:508
+#: framework-customizations/theme/options/taxonomies/product_brand.php:353
+#: framework-customizations/theme/options/taxonomies/product_cat.php:353
+#: framework-customizations/theme/options/taxonomies/product_collection.php:353
+#: framework-customizations/theme/options/taxonomies/product_tag.php:353
+msgid "Bottom Block"
+msgstr ""
+
+#: framework-customizations/customizer/shop-brand-settings.php:501
+#: framework-customizations/customizer/shop-category-settings.php:510
+#: framework-customizations/customizer/shop-collection-settings.php:510
+#: framework-customizations/customizer/shop-settings.php:559
+#: framework-customizations/customizer/shop-tag-settings.php:510
+#: framework-customizations/theme/options/taxonomies/product_brand.php:361
+#: framework-customizations/theme/options/taxonomies/product_cat.php:361
+#: framework-customizations/theme/options/taxonomies/product_collection.php:361
+#: framework-customizations/theme/options/taxonomies/product_tag.php:361
+msgid "Add Bottom Block"
+msgstr ""
+
+#: framework-customizations/customizer/shop-category-settings.php:24
+msgid "Setup you shop category page banner BG."
+msgstr ""
+
+#: framework-customizations/customizer/shop-category-settings.php:393
+#: framework-customizations/customizer/shop-collection-settings.php:393
+#: framework-customizations/customizer/shop-product-settings.php:495
+#: framework-customizations/customizer/shop-settings.php:420
+#: framework-customizations/customizer/shop-tag-settings.php:393
+#: framework-customizations/theme/options/posts/product.php:365
+#: framework-customizations/theme/options/taxonomies/product_brand.php:282
+#: framework-customizations/theme/options/taxonomies/product_cat.php:282
+#: framework-customizations/theme/options/taxonomies/product_collection.php:282
+#: framework-customizations/theme/options/taxonomies/product_tag.php:282
+msgid "Is Rating Count?"
+msgstr ""
+
+#: framework-customizations/customizer/shop-category-settings.php:394
+#: framework-customizations/customizer/shop-collection-settings.php:394
+#: framework-customizations/customizer/shop-product-settings.php:496
+#: framework-customizations/customizer/shop-settings.php:421
+#: framework-customizations/customizer/shop-tag-settings.php:394
+msgid "Dow you want to show product rating counts?"
+msgstr ""
+
+#: framework-customizations/customizer/shop-category-settings.php:405
+#: framework-customizations/customizer/shop-collection-settings.php:405
+#: framework-customizations/customizer/shop-product-settings.php:507
+#: framework-customizations/customizer/shop-settings.php:433
+#: framework-customizations/customizer/shop-tag-settings.php:405
+#: framework-customizations/theme/options/taxonomies/product_brand.php:297
+#: framework-customizations/theme/options/taxonomies/product_cat.php:297
+#: framework-customizations/theme/options/taxonomies/product_collection.php:297
+#: framework-customizations/theme/options/taxonomies/product_tag.php:297
+msgid "Rating Label"
+msgstr ""
+
+#: framework-customizations/customizer/shop-category-settings.php:407
+#: framework-customizations/customizer/shop-collection-settings.php:407
+#: framework-customizations/customizer/shop-product-settings.php:509
+#: framework-customizations/customizer/shop-settings.php:435
+#: framework-customizations/customizer/shop-tag-settings.php:407
+#: woocommerce/single-product-reviews.php:39
+#: woocommerce/single-product/related.php:30
+msgid "Reviews"
+msgstr ""
+
+#: framework-customizations/customizer/shop-category-settings.php:419
+#: framework-customizations/customizer/shop-collection-settings.php:419
+#: framework-customizations/customizer/shop-settings.php:461
+#: framework-customizations/customizer/shop-tag-settings.php:419
+#: framework-customizations/theme/options/taxonomies/product_brand.php:300
+#: framework-customizations/theme/options/taxonomies/product_cat.php:300
+#: framework-customizations/theme/options/taxonomies/product_collection.php:300
+#: framework-customizations/theme/options/taxonomies/product_tag.php:300
+msgid "Pagination Type"
+msgstr ""
+
+#: framework-customizations/customizer/shop-category-settings.php:423
+#: framework-customizations/customizer/shop-collection-settings.php:423
+#: framework-customizations/customizer/shop-settings.php:466
+#: framework-customizations/customizer/shop-tag-settings.php:423
+#: framework-customizations/theme/options/taxonomies/product_brand.php:304
+#: framework-customizations/theme/options/taxonomies/product_cat.php:304
+#: framework-customizations/theme/options/taxonomies/product_collection.php:304
+#: framework-customizations/theme/options/taxonomies/product_tag.php:304
+msgid "Default Pagination"
+msgstr ""
+
+#: framework-customizations/customizer/shop-category-settings.php:424
+#: framework-customizations/customizer/shop-collection-settings.php:424
+#: framework-customizations/customizer/shop-settings.php:467
+#: framework-customizations/customizer/shop-tag-settings.php:424
+#: framework-customizations/theme/options/taxonomies/product_brand.php:305
+#: framework-customizations/theme/options/taxonomies/product_cat.php:305
+#: framework-customizations/theme/options/taxonomies/product_collection.php:305
+#: framework-customizations/theme/options/taxonomies/product_tag.php:305
+msgid "Ajax Pagination"
+msgstr ""
+
+#: framework-customizations/customizer/shop-category-settings.php:430
+#: framework-customizations/customizer/shop-collection-settings.php:430
+#: framework-customizations/customizer/shop-settings.php:473
+#: framework-customizations/customizer/shop-tag-settings.php:430
+msgid "Ajax Label"
+msgstr ""
+
+#: framework-customizations/customizer/shop-category-settings.php:432
+#: framework-customizations/customizer/shop-collection-settings.php:432
+#: framework-customizations/customizer/shop-settings.php:475
+#: framework-customizations/customizer/shop-tag-settings.php:432
+#: woocommerce/archive-product.php:50 woocommerce/taxonomy-product-cat.php:39
+#: woocommerce/taxonomy-product-tag.php:39
+#: woocommerce/taxonomy-product_brand.php:39
+#: woocommerce/taxonomy-product_collection.php:39
+msgid "Load More"
+msgstr ""
+
+#: framework-customizations/customizer/shop-collection-settings.php:24
+msgid "Setup you shop collection page banner BG."
+msgstr ""
+
+#: framework-customizations/customizer/shop-product-settings.php:25
+msgid "Setup you shop details page banner BG."
+msgstr ""
+
+#: framework-customizations/customizer/shop-product-settings.php:54
+#: framework-customizations/customizer/shop-settings.php:56 inc/helper.php:540
+#: template-parts/header/shop-header.php:4
+#: template-parts/header/shop-product-header.php:2
+msgid "Shop"
+msgstr ""
+
+#: framework-customizations/customizer/shop-product-settings.php:198
+#: framework-customizations/theme/options/posts/product.php:102
+#: framework-customizations/theme/options/posts/product.php:181
+#: framework-customizations/theme/options/posts/product.php:280
+msgid "Gallery Style"
+msgstr ""
+
+#: framework-customizations/customizer/shop-product-settings.php:202
+#: framework-customizations/theme/options/posts/product.php:106
+msgid "Thumbnail In Bottom"
+msgstr ""
+
+#: framework-customizations/customizer/shop-product-settings.php:203
+#: framework-customizations/theme/options/posts/product.php:107
+msgid "Thumbnail In Left"
+msgstr ""
+
+#: framework-customizations/customizer/shop-product-settings.php:209
+msgid "Is Gallery Image Zoom?"
+msgstr ""
+
+#: framework-customizations/customizer/shop-product-settings.php:278
+msgid "Variation Alignment"
+msgstr ""
+
+#: framework-customizations/customizer/shop-product-settings.php:282
+#: framework-customizations/theme/options/posts/product.php:185
+msgid "Vertical Alignment"
+msgstr ""
+
+#: framework-customizations/customizer/shop-product-settings.php:283
+#: framework-customizations/theme/options/posts/product.php:186
+msgid "Horizontal Alignment"
+msgstr ""
+
+#: framework-customizations/customizer/shop-product-settings.php:288
+#: framework-customizations/theme/options/posts/product.php:197
+msgid "Short Desc Length"
+msgstr ""
+
+#: framework-customizations/customizer/shop-product-settings.php:372
+#: framework-customizations/theme/options/posts/product.php:277
+msgid "Product Tab Settings"
+msgstr ""
+
+#: framework-customizations/customizer/shop-product-settings.php:377
+msgid "Tab Style"
+msgstr ""
+
+#: framework-customizations/customizer/shop-product-settings.php:381
+#: framework-customizations/theme/options/posts/product.php:284
+msgid "Link Style Tab"
+msgstr ""
+
+#: framework-customizations/customizer/shop-product-settings.php:382
+#: framework-customizations/theme/options/posts/product.php:285
+msgid "Pill / Button Style Tab"
+msgstr ""
+
+#: framework-customizations/customizer/shop-product-settings.php:383
+#: framework-customizations/theme/options/posts/product.php:286
+msgid "Expanded View"
+msgstr ""
+
+#: framework-customizations/customizer/shop-product-settings.php:389
+msgid "Tab Menu Align"
+msgstr ""
+
+#: framework-customizations/customizer/shop-product-settings.php:393
+#: framework-customizations/theme/options/posts/product.php:295
+msgid "Left Align"
+msgstr ""
+
+#: framework-customizations/customizer/shop-product-settings.php:394
+#: framework-customizations/theme/options/posts/product.php:296
+msgid "Center Align"
+msgstr ""
+
+#: framework-customizations/customizer/shop-product-settings.php:395
+#: framework-customizations/theme/options/posts/product.php:297
+msgid "Right Align"
+msgstr ""
+
+#: framework-customizations/customizer/shop-product-settings.php:411
+#: framework-customizations/theme/options/posts/product.php:305
+msgid "Related Product Settings"
+msgstr ""
+
+#: framework-customizations/customizer/shop-product-settings.php:416
+msgid "Is Related Products?"
+msgstr ""
+
+#: framework-customizations/customizer/shop-product-settings.php:427
+#: framework-customizations/theme/options/posts/product.php:321
+msgid "Related Area Title"
+msgstr ""
+
+#: framework-customizations/customizer/shop-product-settings.php:429
+#: framework-customizations/theme/options/posts/product.php:323
+#: woocommerce/single-product/related.php:25
+#: woocommerce/single-product/related.php:36
+msgid "More Products Like This"
+msgstr ""
+
+#: framework-customizations/customizer/shop-search-settings.php:24
+msgid "Setup you shop search result page banner BG."
+msgstr ""
+
+#: framework-customizations/customizer/shop-settings.php:27
+msgid "Setup you shop page banner BG."
+msgstr ""
+
+#: framework-customizations/customizer/shop-settings.php:221
+msgid "Shop product column for XL device."
+msgstr ""
+
+#: framework-customizations/customizer/shop-settings.php:235
+msgid "Shop product column for LG device."
+msgstr ""
+
+#: framework-customizations/customizer/shop-settings.php:249
+msgid "Shop product column for MD device."
+msgstr ""
+
+#: framework-customizations/customizer/shop-settings.php:448
+msgid "Number Of Products"
+msgstr ""
+
+#: framework-customizations/customizer/shop-tag-settings.php:24
+msgid "Setup you shop tag page banner BG."
+msgstr ""
+
+#: framework-customizations/customizer/shop-tag-settings.php:248
+#: framework-customizations/theme/options/taxonomies/product_brand.php:144
+#: framework-customizations/theme/options/taxonomies/product_cat.php:144
+#: framework-customizations/theme/options/taxonomies/product_collection.php:144
+#: framework-customizations/theme/options/taxonomies/product_tag.php:144
+msgid "Shop product column for sm device."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: framework-customizations/theme/manifest.php:9
+msgid "Ulina"
+msgstr ""
+
+#: framework-customizations/theme/manifest.php:11
+msgid "Ulina - Fashion Ecommerce Responsive WordPress Theme"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/blocks.php:14
+#: framework-customizations/theme/options/posts/page.php:114
+#: framework-customizations/theme/options/posts/post.php:26
+#: framework-customizations/theme/options/posts/product.php:27
+#: framework-customizations/theme/options/taxonomies/category.php:19
+#: framework-customizations/theme/options/taxonomies/product_brand.php:24
+#: framework-customizations/theme/options/taxonomies/product_cat.php:24
+#: framework-customizations/theme/options/taxonomies/product_collection.php:24
+#: framework-customizations/theme/options/taxonomies/product_tag.php:24
+msgid "Is Banner"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/blocks.php:25
+msgid "Do you want to hide banner only for this blocks details page?"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/blocks.php:29
+#: framework-customizations/theme/options/posts/page.php:129
+#: framework-customizations/theme/options/posts/post.php:41
+#: framework-customizations/theme/options/posts/product.php:42
+#: framework-customizations/theme/options/taxonomies/category.php:34
+#: framework-customizations/theme/options/taxonomies/product_brand.php:39
+#: framework-customizations/theme/options/taxonomies/product_cat.php:39
+#: framework-customizations/theme/options/taxonomies/product_collection.php:39
+#: framework-customizations/theme/options/taxonomies/product_tag.php:39
+msgid "Banner BG IMG"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/blocks.php:35
+#: framework-customizations/theme/options/posts/page.php:136
+#: framework-customizations/theme/options/posts/post.php:48
+#: framework-customizations/theme/options/posts/product.php:49
+#: framework-customizations/theme/options/taxonomies/category.php:41
+#: framework-customizations/theme/options/taxonomies/product_brand.php:46
+#: framework-customizations/theme/options/taxonomies/product_cat.php:46
+#: framework-customizations/theme/options/taxonomies/product_collection.php:46
+#: framework-customizations/theme/options/taxonomies/product_tag.php:46
+msgid "Banner BG Color"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/blocks.php:36
+msgid "Insert your blocks banner bg color here."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/blocks.php:42
+#: framework-customizations/theme/options/posts/post.php:55
+#: framework-customizations/theme/options/taxonomies/category.php:48
+msgid "Insert your page banner title."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/blocks.php:49
+#: framework-customizations/theme/options/posts/page.php:53
+#: framework-customizations/theme/options/posts/page.php:80
+#: framework-customizations/theme/options/posts/page.php:104
+#: framework-customizations/theme/options/posts/page.php:150
+#: framework-customizations/theme/options/posts/page.php:180
+#: framework-customizations/theme/options/posts/post.php:16
+#: framework-customizations/theme/options/posts/post.php:79
+#: framework-customizations/theme/options/posts/product.php:17
+#: framework-customizations/theme/options/posts/product.php:63
+#: framework-customizations/theme/options/posts/product.php:434
+#: framework-customizations/theme/options/posts/product.php:448
+#: framework-customizations/theme/options/taxonomies/category.php:55
+#: framework-customizations/theme/options/taxonomies/product_brand.php:14
+#: framework-customizations/theme/options/taxonomies/product_brand.php:60
+#: framework-customizations/theme/options/taxonomies/product_brand.php:91
+#: framework-customizations/theme/options/taxonomies/product_cat.php:14
+#: framework-customizations/theme/options/taxonomies/product_cat.php:60
+#: framework-customizations/theme/options/taxonomies/product_cat.php:91
+#: framework-customizations/theme/options/taxonomies/product_collection.php:14
+#: framework-customizations/theme/options/taxonomies/product_collection.php:60
+#: framework-customizations/theme/options/taxonomies/product_collection.php:91
+#: framework-customizations/theme/options/taxonomies/product_tag.php:14
+#: framework-customizations/theme/options/taxonomies/product_tag.php:60
+#: framework-customizations/theme/options/taxonomies/product_tag.php:91
+msgid "Yes"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/blocks.php:53
+#: framework-customizations/theme/options/posts/page.php:57
+#: framework-customizations/theme/options/posts/page.php:84
+#: framework-customizations/theme/options/posts/page.php:108
+#: framework-customizations/theme/options/posts/page.php:154
+#: framework-customizations/theme/options/posts/page.php:184
+#: framework-customizations/theme/options/posts/post.php:20
+#: framework-customizations/theme/options/posts/post.php:83
+#: framework-customizations/theme/options/posts/product.php:21
+#: framework-customizations/theme/options/posts/product.php:67
+#: framework-customizations/theme/options/posts/product.php:438
+#: framework-customizations/theme/options/posts/product.php:452
+#: framework-customizations/theme/options/taxonomies/category.php:59
+#: framework-customizations/theme/options/taxonomies/product_brand.php:18
+#: framework-customizations/theme/options/taxonomies/product_brand.php:64
+#: framework-customizations/theme/options/taxonomies/product_brand.php:95
+#: framework-customizations/theme/options/taxonomies/product_cat.php:18
+#: framework-customizations/theme/options/taxonomies/product_cat.php:64
+#: framework-customizations/theme/options/taxonomies/product_cat.php:95
+#: framework-customizations/theme/options/taxonomies/product_collection.php:18
+#: framework-customizations/theme/options/taxonomies/product_collection.php:64
+#: framework-customizations/theme/options/taxonomies/product_collection.php:95
+#: framework-customizations/theme/options/taxonomies/product_tag.php:18
+#: framework-customizations/theme/options/taxonomies/product_tag.php:64
+#: framework-customizations/theme/options/taxonomies/product_tag.php:95
+msgid "No"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/blocks.php:56
+msgid "Do you want to show breadcrumb on blocks banner?"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/blocks.php:59
+#: framework-customizations/theme/options/posts/page.php:160
+#: framework-customizations/theme/options/posts/product.php:73
+#: framework-customizations/theme/options/taxonomies/product_brand.php:70
+#: framework-customizations/theme/options/taxonomies/product_cat.php:70
+#: framework-customizations/theme/options/taxonomies/product_collection.php:70
+#: framework-customizations/theme/options/taxonomies/product_tag.php:70
+msgid "Banner Content Alignment"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/page.php:39
+msgid "Page Settings Box"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/page.php:43
+msgid "Custom Header Settings"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/page.php:49
+#: framework-customizations/theme/options/posts/page.php:76
+msgid "Enable Setting"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/page.php:50
+msgid "Do you want to enable custom header settings for this page?"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/page.php:63
+msgid "Select Header Style"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/page.php:64
+msgid "Select page header for this page."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/page.php:70
+msgid "Custom Footer Settings"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/page.php:77
+msgid "Do you want to enable custom footer settings for this page?"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/page.php:100
+#: framework-customizations/theme/options/posts/post.php:12
+#: framework-customizations/theme/options/posts/post.php:75
+#: framework-customizations/theme/options/posts/product.php:13
+#: framework-customizations/theme/options/taxonomies/category.php:5
+#: framework-customizations/theme/options/taxonomies/product_brand.php:10
+#: framework-customizations/theme/options/taxonomies/product_cat.php:10
+#: framework-customizations/theme/options/taxonomies/product_collection.php:10
+#: framework-customizations/theme/options/taxonomies/product_tag.php:10
+msgid "Enable Settings"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/page.php:111
+#: framework-customizations/theme/options/posts/product.php:24
+msgid "Enable bellow settings for this page banner."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/page.php:125
+#: framework-customizations/theme/options/posts/product.php:38
+msgid ""
+"Do you want to hide banner only for this page? Then please turn it to Hide."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/page.php:130
+#: framework-customizations/theme/options/posts/product.php:43
+msgid "Upload your page banner bg image and this only work for dark version."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/page.php:137
+#: framework-customizations/theme/options/posts/product.php:50
+#: framework-customizations/theme/options/taxonomies/product_brand.php:47
+#: framework-customizations/theme/options/taxonomies/product_cat.php:47
+#: framework-customizations/theme/options/taxonomies/product_collection.php:47
+#: framework-customizations/theme/options/taxonomies/product_tag.php:47
+msgid "Insert your page banner bg color here."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/page.php:143
+#: framework-customizations/theme/options/posts/product.php:56
+#: framework-customizations/theme/options/taxonomies/product_brand.php:53
+#: framework-customizations/theme/options/taxonomies/product_cat.php:53
+#: framework-customizations/theme/options/taxonomies/product_collection.php:53
+#: framework-customizations/theme/options/taxonomies/product_tag.php:53
+msgid "Insert your page banner custom title."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/page.php:157
+#: framework-customizations/theme/options/posts/product.php:70
+#: framework-customizations/theme/options/taxonomies/category.php:62
+msgid "Do you want to show breadcrumb on page banner?"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/page.php:176
+#: framework-customizations/theme/options/taxonomies/product_brand.php:87
+#: framework-customizations/theme/options/taxonomies/product_cat.php:87
+#: framework-customizations/theme/options/taxonomies/product_collection.php:87
+#: framework-customizations/theme/options/taxonomies/product_tag.php:87
+msgid "Enable Content Settings"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/page.php:187
+msgid "Enable bellow settings for this page content are."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/page.php:193
+msgid "Select your page template. This option only work for this page."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:23
+msgid ""
+"Do you want to use those settings for single post banner instead of "
+"customizer global settings? Then turn it to Yes."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:37
+msgid "Do you want to hide banner? Then turn it to Hide."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:42
+#: framework-customizations/theme/options/taxonomies/product_brand.php:40
+#: framework-customizations/theme/options/taxonomies/product_cat.php:40
+#: framework-customizations/theme/options/taxonomies/product_collection.php:40
+#: framework-customizations/theme/options/taxonomies/product_tag.php:40
+msgid "Upload your page banner bg image."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:49
+msgid "Insert your custom banner BG color."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:58
+#: framework-customizations/theme/options/taxonomies/category.php:65
+msgid "Banner Alignment"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:61
+msgid "Select your page banner content alignment."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:71
+msgid "Template And Content Settings"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:91
+msgid "Select your post sidebar position."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:112
+msgid "Is Share?"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:154
+msgid "Is Author Box?"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/product.php:5
+msgid "Product Settings Box"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/product.php:89
+msgid "Enabled Settings?"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/product.php:111
+msgid "Is Zoom?"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/product.php:124
+msgid "Is Flashlabel?"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/product.php:150
+msgid "Is Ratings?"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/product.php:176
+msgid "Stock Count Label"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/product.php:200
+msgid "Is wishlist?"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/product.php:290
+msgid "Product Tab Alignment"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/product.php:292
+msgid ""
+"This option will only work for \"Link Style Tab\" and \"Pill / Button Style "
+"Tab\""
+msgstr ""
+
+#: framework-customizations/theme/options/posts/product.php:308
+msgid "Is Related Product?"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/product.php:326
+msgid "Is Flash Label?"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/product.php:352
+msgid "Is Quickview?"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/product.php:378
+msgid "Rating Count Label"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/product.php:385
+msgid "Tab Content Settings"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/product.php:389
+msgid "Features Details Area Label"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/product.php:391
+msgid "Product Details"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/product.php:394
+msgid "Features Area Label"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/product.php:396
+#: framework-customizations/theme/options/posts/product.php:401
+msgid "Product Features"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/product.php:404
+msgid "Feature"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/product.php:411
+#: framework-customizations/theme/options/posts/product.php:463
+msgid "Add Feature"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/product.php:415
+msgid "Additional Info Area Label"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/product.php:417
+msgid "Additional Information"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/product.php:430
+msgid "Is Top Prodcut?"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/product.php:441
+msgid "If you want to show TOP label then please turn it to Yes."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/product.php:444
+msgid "Is Hot Prodcut?"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/product.php:455
+msgid "If you want to show HOT label then please turn it to Yes."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/product.php:460
+msgid "List Features"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/product.php:461
+msgid ""
+"Add some highlighted features for product list view. Leave blank to show "
+"product short descripton."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/product.php:469
+msgid "Product Image 02"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/product.php:477
+msgid "Upload secondary featured image for this product."
+msgstr ""
+
+#: framework-customizations/theme/options/taxonomies/category.php:16
+msgid ""
+"If you enable settings here for this category then Base Category Banner "
+"Settings will override by those individual settings."
+msgstr ""
+
+#: framework-customizations/theme/options/taxonomies/category.php:30
+msgid "Sect this category page banner informations."
+msgstr ""
+
+#: framework-customizations/theme/options/taxonomies/category.php:35
+msgid "Upload your page banner bg image and this only work for this category."
+msgstr ""
+
+#: framework-customizations/theme/options/taxonomies/category.php:42
+msgid ""
+"Insert your custom banner BG color color in RGBA mode and this only work for "
+"this category."
+msgstr ""
+
+#: framework-customizations/theme/options/taxonomies/category.php:68
+msgid "Select your category banner text alignment."
+msgstr ""
+
+#: framework-customizations/theme/options/taxonomies/product_brand.php:7
+msgid "Brand Banner Settings"
+msgstr ""
+
+#: framework-customizations/theme/options/taxonomies/product_brand.php:21
+msgid "Enable bellow settings for this brand banner."
+msgstr ""
+
+#: framework-customizations/theme/options/taxonomies/product_brand.php:35
+msgid ""
+"Do you want to hide banner only for this brand? Then please turn it to Hide."
+msgstr ""
+
+#: framework-customizations/theme/options/taxonomies/product_brand.php:67
+msgid "Do you want to show breadcrumb on brand banner?"
+msgstr ""
+
+#: framework-customizations/theme/options/taxonomies/product_brand.php:84
+msgid "Brand Content Settings"
+msgstr ""
+
+#: framework-customizations/theme/options/taxonomies/product_brand.php:98
+msgid "Enable bellow settings for this brand content."
+msgstr ""
+
+#: framework-customizations/theme/options/taxonomies/product_brand.php:311
+#: framework-customizations/theme/options/taxonomies/product_cat.php:311
+#: framework-customizations/theme/options/taxonomies/product_collection.php:311
+#: framework-customizations/theme/options/taxonomies/product_tag.php:311
+msgid "Ajax BTN Label"
+msgstr ""
+
+#: framework-customizations/theme/options/taxonomies/product_cat.php:21
+msgid "Enable bellow settings for this category banner."
+msgstr ""
+
+#: framework-customizations/theme/options/taxonomies/product_cat.php:35
+msgid ""
+"Do you want to hide banner only for this category? Then please turn it to "
+"Hide."
+msgstr ""
+
+#: framework-customizations/theme/options/taxonomies/product_cat.php:67
+msgid "Do you want to show breadcrumb on category banner?"
+msgstr ""
+
+#: framework-customizations/theme/options/taxonomies/product_cat.php:84
+msgid "Category Content Settings"
+msgstr ""
+
+#: framework-customizations/theme/options/taxonomies/product_cat.php:98
+msgid "Enable bellow settings for this category content."
+msgstr ""
+
+#: framework-customizations/theme/options/taxonomies/product_collection.php:7
+msgid "Collection Banner Settings"
+msgstr ""
+
+#: framework-customizations/theme/options/taxonomies/product_collection.php:21
+msgid "Enable bellow settings for this collection banner."
+msgstr ""
+
+#: framework-customizations/theme/options/taxonomies/product_collection.php:35
+msgid ""
+"Do you want to hide banner only for this collection? Then please turn it to "
+"Hide."
+msgstr ""
+
+#: framework-customizations/theme/options/taxonomies/product_collection.php:67
+msgid "Do you want to show breadcrumb on collection banner?"
+msgstr ""
+
+#: framework-customizations/theme/options/taxonomies/product_collection.php:84
+msgid "Collection Content Settings"
+msgstr ""
+
+#: framework-customizations/theme/options/taxonomies/product_collection.php:98
+msgid "Enable bellow settings for this collection content."
+msgstr ""
+
+#: framework-customizations/theme/options/taxonomies/product_tag.php:7
+msgid "Tag Banner Settings"
+msgstr ""
+
+#: framework-customizations/theme/options/taxonomies/product_tag.php:21
+msgid "Enable bellow settings for this tag banner."
+msgstr ""
+
+#: framework-customizations/theme/options/taxonomies/product_tag.php:35
+msgid ""
+"Do you want to hide banner only for this tag? Then please turn it to Hide."
+msgstr ""
+
+#: framework-customizations/theme/options/taxonomies/product_tag.php:67
+msgid "Do you want to show breadcrumb on tag banner?"
+msgstr ""
+
+#: framework-customizations/theme/options/taxonomies/product_tag.php:84
+msgid "Tag Content Settings"
+msgstr ""
+
+#: framework-customizations/theme/options/taxonomies/product_tag.php:98
+msgid "Enable bellow settings for this tag content."
+msgstr ""
+
+#: inc/helper.php:37
+msgctxt "Jost font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/helper.php:38
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/helper.php:85
+msgid " at"
+msgstr ""
+
+#: inc/helper.php:89
+msgid "Reply"
+msgstr ""
+
+#: inc/helper.php:115
+msgid " View"
+msgstr ""
+
+#: inc/helper.php:115
+msgid " Views"
+msgstr ""
+
+#: inc/helper.php:439
+msgid "Home"
+msgstr ""
+
+#: inc/helper.php:537
+msgid "Author: "
+msgstr ""
+
+#: inc/helper.php:559
+msgid "Search results for:"
+msgstr ""
+
+#: inc/helper.php:564
+msgid "Blog"
+msgstr ""
+
+#: inc/helper.php:751
+msgid "Top"
+msgstr ""
+
+#: inc/helper.php:754
+msgid "Hot"
+msgstr ""
+
+#: inc/helper.php:766
+msgid "Sale"
+msgstr ""
+
+#: inc/helper.php:776
+msgid "Featured"
+msgstr ""
+
+#: inc/helper.php:781
+msgid "Limited Stock"
+msgstr ""
+
+#: inc/helper.php:783 inc/helper.php:786
+msgid "Out of Stock"
+msgstr ""
+
+#: inc/hooks.php:59
+msgid "Ulina Icons"
+msgstr ""
+
+#: inc/hooks.php:81
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/hooks.php:96
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/hooks.php:97
+msgid "Blog sidebar, Only for blog pages."
+msgstr ""
+
+#: inc/hooks.php:100
+msgid "Page Sidebar"
+msgstr ""
+
+#: inc/hooks.php:101
+msgid "Page sidebar, Only for pages."
+msgstr ""
+
+#: inc/hooks.php:104
+msgid "Shop Sidebar"
+msgstr ""
+
+#: inc/hooks.php:105
+msgid "Shop sidebar, Only for shop pages."
+msgstr ""
+
+#: inc/hooks.php:198
+msgid "Elementor"
+msgstr ""
+
+#: inc/hooks.php:203
+msgid "Kirki"
+msgstr ""
+
+#: inc/hooks.php:208
+msgid "Unyson"
+msgstr ""
+
+#: inc/hooks.php:213
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/hooks.php:218
+msgid "WCBoost Variation Swatches"
+msgstr ""
+
+#: inc/hooks.php:223
+msgid "YITH WooCommerce Wishlist"
+msgstr ""
+
+#: inc/hooks.php:228
+msgid "Ulina Assistance"
+msgstr ""
+
+#: inc/hooks.php:238
+msgid "Revolution Slider"
+msgstr ""
+
+#: inc/hooks.php:248
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/hooks.php:253
+msgid "MC4WP: Mailchimp for WordPress"
+msgstr ""
+
+#: inc/hooks.php:258
+msgid "Max Mega Menu"
+msgstr ""
+
+#: inc/hooks.php:309
+#, php-format
+msgid "%d"
+msgid_plural "%d"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/hooks.php:335
+msgid "Ulina Live Dummy"
+msgstr ""
+
+#: inc/hooks.php:363
+msgid ""
+"This content is password protected. To view it please enter your password "
+"below:"
+msgstr ""
+
+#: inc/hooks.php:368 woocommerce/global/form-login.php:38
+msgid "Password"
+msgstr ""
+
+#: inc/hooks.php:369
+msgid "Submit"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/lib/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/lib/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: inc/lib/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/lib/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/lib/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/lib/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/lib/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/lib/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/lib/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/lib/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/lib/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/lib/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:393
+#: inc/lib/class-tgm-plugin-activation.php:912
+#: inc/lib/class-tgm-plugin-activation.php:2618
+#: inc/lib/class-tgm-plugin-activation.php:3678
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:394
+#: inc/lib/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:395
+#: inc/lib/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: inc/lib/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/lib/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: inc/lib/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:1019
+#: inc/lib/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:1206
+#: inc/lib/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: inc/lib/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: inc/lib/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: inc/lib/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/lib/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/lib/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/lib/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/lib/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/lib/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/lib/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/lib/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/lib/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/lib/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:3597
+#: inc/lib/class-tgm-plugin-activation.php:3600
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:3597
+#: inc/lib/class-tgm-plugin-activation.php:3611
+msgid "Show Details"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:3597
+#: inc/lib/class-tgm-plugin-activation.php:3611
+msgid "Hide Details"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:3602
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/lib/class-tgm-plugin-activation.php:3604
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:3607
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:3611
+#: inc/lib/class-tgm-plugin-activation.php:3613
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:3616
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/lib/class-tgm-plugin-activation.php:3618
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/woocommerce.php:36
+msgid "Available:"
+msgstr ""
+
+#: inc/woocommerce.php:151 woocommerce/content-single-product.php:148
+msgid " In Stock"
+msgstr ""
+
+#: inc/woocommerce.php:177 woocommerce/content-single-product.php:166
+msgid "Sku:"
+msgstr ""
+
+#: inc/woocommerce.php:183 woocommerce/content-single-product.php:172
+msgid "Tags:"
+msgstr ""
+
+#: inc/woocommerce.php:197 woocommerce/content-single-product.php:186
+msgid "Share:"
+msgstr ""
+
+#: inc/woocommerce.php:248
+msgid "Add to Cart"
+msgstr ""
+
+#: page-templates/demo-blog-list-fullwidth.php:94
+#: page-templates/demo-blog-list-left-bar.php:99 single.php:140
+#: template-parts/post/content.php:94
+msgid "Share"
+msgstr ""
+
+#: page.php:56 single.php:111
+msgid "Pages:"
+msgstr ""
+
+#: searchform.php:8
+msgctxt "placeholder"
+msgid "Search your keyword"
+msgstr ""
+
+#: single.php:158
+msgid "Previous Post"
+msgstr ""
+
+#: single.php:167
+msgid "Next Post"
+msgstr ""
+
+#: single.php:218
+msgid "View All Posts"
+msgstr ""
+
+#: template-parts/navigation/default-navigation.php:38
+msgid "No Menu"
+msgstr ""
+
+#: template-parts/navigation/default-navigation.php:43
+msgid "Menu"
+msgstr ""
+
+#: template-parts/post/content-none.php:10
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/post/content-none.php:13
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:34
+msgid "Return to shop"
+msgstr ""
+
+#: woocommerce/cart/cart.php:28
+msgid "Your Cart Items"
+msgstr ""
+
+#: woocommerce/cart/cart.php:38 woocommerce/wishlist-view.php:80
+msgid "Item Name"
+msgstr ""
+
+#: woocommerce/cart/cart.php:40 woocommerce/cart/cart.php:90
+#: woocommerce/order/order-details.php:52 woocommerce/wishlist-view.php:102
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:41 woocommerce/cart/cart.php:96
+#: woocommerce/global/quantity-input.php:28 woocommerce/wishlist-view.php:123
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:42 woocommerce/checkout/review-order.php:103
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:70 woocommerce/checkout/review-order.php:23
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:85
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:118 woocommerce/checkout/review-order.php:24
+#: woocommerce/checkout/review-order.php:56
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart.php:130 woocommerce/cart/mini-cart.php:54
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:148
+msgid "Continue Shopping"
+msgstr ""
+
+#: woocommerce/cart/cart.php:151
+msgid "Update cart"
+msgstr ""
+
+#: woocommerce/cart/cart.php:156
+msgid "Clear All"
+msgstr ""
+
+#: woocommerce/cart/cart.php:171
+msgid "Have A Coupon Code?"
+msgstr ""
+
+#: woocommerce/cart/cart.php:172
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:172 woocommerce/checkout/form-coupon.php:32
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:91
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:24
+msgid "Your Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:28
+msgid "Your Billing Address"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:53
+msgid "Create an account?"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:53
+msgid "Your Order"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:28
+msgid "Coupon Code"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:31
+msgid "Write your Coupon Code"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:32
+msgid "Apply Code"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:27
+msgid "Already have an account?"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:27
+msgid "Click Here to Login"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:26
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:57
+msgid "Additional information"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:25
+msgid "Payment Information"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:34
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:34
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#. translators: $1 and $2 opening and closing emphasis tags respectively
+#: woocommerce/checkout/payment.php:43
+#, php-format
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the %1$sUpdate Totals%2$s button before placing your order. "
+"You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:45
+msgid "Update totals"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:30
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction. Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:33
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:35
+msgid "My account"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:41 woocommerce/checkout/thankyou.php:83
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:46
+msgid "Order number:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:51
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:57
+msgid "Email:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:63
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:69
+msgid "Payment method:"
+msgstr ""
+
+#: woocommerce/content-widget-price-filter.php:27
+msgid "Min price"
+msgstr ""
+
+#: woocommerce/content-widget-price-filter.php:28
+msgid "Max price"
+msgstr ""
+
+#. translators: Filter: verb "to filter"
+#: woocommerce/content-widget-price-filter.php:30
+msgid "Filter"
+msgstr ""
+
+#: woocommerce/content-widget-price-filter.php:32
+msgid "Price:"
+msgstr ""
+
+#. translators: %s: Comment author.
+#: woocommerce/content-widget-reviews.php:40
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: woocommerce/global/form-login.php:35
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/global/form-login.php:46 woocommerce/myaccount/form-login.php:52
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/global/form-login.php:50 woocommerce/myaccount/form-login.php:34
+msgid "Login"
+msgstr ""
+
+#: woocommerce/global/form-login.php:55 woocommerce/myaccount/form-login.php:56
+msgid "Lost your password?"
+msgstr ""
+
+#. translators: %s: Quantity.
+#: woocommerce/global/quantity-input.php:28
+#, php-format
+msgid "%s quantity"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:42
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/loop/add-to-cart-variable.php:26
+#: woocommerce/single-product/add-to-cart/variable.php:32
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/loop/orderby.php:24
+msgid "Sort By"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:25
+msgid "Shop order"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:28
+msgid "Showing the single result"
+msgstr ""
+
+#. translators: %d: total results
+#: woocommerce/loop/result-count.php:31
+#, php-format
+msgid "Showing all <strong>%d</strong> result"
+msgid_plural "Showing all <strong>%d</strong> results"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: first result 2: last result 3: total results
+#: woocommerce/loop/result-count.php:36
+#, php-format
+msgctxt "with first and last result"
+msgid ""
+"Showing <strong>%1$d&ndash;%2$d</strong> of <strong>%3$d</strong> result"
+msgid_plural ""
+"Showing <strong>%1$d&ndash;%2$d</strong> of <strong>%3$d</strong> results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/form-edit-account.php:27
+msgid "First name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:31
+msgid "Last name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:37
+msgid "Display name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:38
+msgid ""
+"This will be how your name will be displayed in the account section and in "
+"reviews"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:43
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:48
+msgid "Password change"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:51
+msgid "Current password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:55
+msgid "New password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:59
+msgid "Confirm new password"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:69
+msgid "Save changes"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:20
+#: woocommerce/myaccount/my-address.php:26
+#: woocommerce/myaccount/my-address.php:35
+#: woocommerce/order/order-details-customer.php:32
+msgid "Billing address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:20
+#: woocommerce/myaccount/my-address.php:27
+#: woocommerce/order/order-details-customer.php:53
+msgid "Shipping address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:46
+msgid "Save address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:38
+msgid "Username or email address *"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:41
+#: woocommerce/myaccount/form-login.php:79
+msgid "Password *"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:46
+msgid "Log in"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:66
+#: woocommerce/myaccount/form-login.php:87
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:71
+msgid "Username *"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:75
+msgid "Email address *"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:82
+msgid "A link to set a new password will be sent to your email address."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:27
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:30
+msgid "Username or email *"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:39
+msgid "Reset password"
+msgstr ""
+
+#: woocommerce/myaccount/form-reset-password.php:25
+msgid "Enter a new password below."
+msgstr ""
+
+#: woocommerce/myaccount/form-reset-password.php:28
+msgid "New password"
+msgstr ""
+
+#: woocommerce/myaccount/form-reset-password.php:32
+msgid "Re-enter new password"
+msgstr ""
+
+#: woocommerce/myaccount/form-reset-password.php:45
+msgid "Save"
+msgstr ""
+
+#: woocommerce/myaccount/lost-password-confirmation.php:21
+msgid "Password reset email has been sent."
+msgstr ""
+
+#: woocommerce/myaccount/lost-password-confirmation.php:28
+msgid ""
+"A password reset email has been sent to the email address on file for your "
+"account, but may take several minutes to show up in your inbox. Please wait "
+"at least 10 minutes before attempting another reset."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:46
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:64
+msgid "Edit"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:64
+msgid "Add"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:68
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:35
+#: woocommerce/order/order-details-customer.php:55
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/order/order-details.php:45
+msgid "Order details"
+msgstr ""
+
+#: woocommerce/order/order-details.php:51
+msgid "Item"
+msgstr ""
+
+#: woocommerce/order/order-details.php:93
+msgid "Note:"
+msgstr ""
+
+#: woocommerce/product-searchform.php:24
+msgid "Search products&hellip;"
+msgstr ""
+
+#: woocommerce/product-searchform.php:25
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: woocommerce/share.php:83
+msgid "WhatsApp"
+msgstr ""
+
+#: woocommerce/share.php:93
+msgid "(Now"
+msgstr ""
+
+#: woocommerce/share.php:93
+msgid "copy"
+msgstr ""
+
+#: woocommerce/share.php:93
+msgid "this wishlist link and share it anywhere)"
+msgstr ""
+
+#. translators: 1: reviews count 2: product name
+#: woocommerce/single-product-reviews.php:36
+#, php-format
+msgid "%1$s Review %2$s"
+msgid_plural "%1$s Reviews %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %s is product title
+#: woocommerce/single-product-reviews.php:77
+msgid "Add A Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:77
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#. translators: %s is product title
+#: woocommerce/single-product-reviews.php:79
+#, php-format
+msgid "Leave A Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:125
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:129
+msgid "Your rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:130
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:131
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:132
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:133
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:134
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:135
+msgid "Very poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:138
+msgid "Review title *"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:139
+msgid "Write your review*"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:146
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/simple.php:55
+msgid "Add To Cart"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:44
+msgid "Choose"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variation-add-to-cart-button.php:53
+msgid "Clear"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:38
+#, php-format
+msgid "%s Review"
+msgid_plural "%s Reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/review.php:57
+msgid "on "
+msgstr ""
+
+#: woocommerce/wishlist-view.php:144
+msgid "Availability"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:186
+msgid "Arrange"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:414
+msgid "Out of stock"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:414
+msgid "In Stock"
+msgstr ""
+
+#. translators: date added label: 1 date added.
+#: woocommerce/wishlist-view.php:449
+#, php-format
+msgid "Added on: %s"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:514
+msgid "Move"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:545
+msgid "Move to another list &rsaquo;"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:577 woocommerce/wishlist-view.php:614
+msgid "Remove this product"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:577
+msgid "Remove"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:637
+msgid "No products added to the wishlist"
+msgstr ""
+
+#: woocommerce/wishlist.php:23
+msgid "Your Wishlist Items"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://uiuxom.com/ulina/wp/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Ulina - Fashion Ecommerce Responsive WordPress Theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "uiuxom"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://themeforest.net/user/uiuxom"
+msgstr ""

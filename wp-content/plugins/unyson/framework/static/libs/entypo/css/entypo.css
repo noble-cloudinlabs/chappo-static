@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: 'entypo';
-  src: url('https://noble-cloudinlabs.github.io/chappo-static/wp-content/plugins/unyson/framework/static/libs/entypo/fonts/entypo.eot');
-  src: url('https://noble-cloudinlabs.github.io/chappo-static/wp-content/plugins/unyson/framework/static/libs/entypo/fonts/entypo.eot#iefix') format('embedded-opentype'),
-       url('https://noble-cloudinlabs.github.io/chappo-static/wp-content/plugins/unyson/framework/static/libs/entypo/fonts/entypo.woff') format('woff'),
-       url('https://noble-cloudinlabs.github.io/chappo-static/wp-content/plugins/unyson/framework/static/libs/entypo/fonts/entypo.ttf') format('truetype'),
-       url('https://noble-cloudinlabs.github.io/chappo-static/wp-content/plugins/unyson/framework/static/libs/entypo/fonts/entypo.svg#entypo') format('svg');
+  src: url('../fonts/entypo.eot');
+  src: url('../fonts/entypo.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/entypo.woff') format('woff'),
+       url('../fonts/entypo.ttf') format('truetype'),
+       url('../fonts/entypo.svg#entypo') format('svg');
   font-weight: normal; font-style: normal;
 }
 

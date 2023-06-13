@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'Unycon';
-	src:url('https://noble-cloudinlabs.github.io/chappo-static/wp-content/plugins/unyson/framework/static/libs/unycon/fonts/Unycon.eot?-s8ws3j');
-	src:url('https://noble-cloudinlabs.github.io/chappo-static/wp-content/plugins/unyson/framework/static/libs/unycon/fonts/Unycon.eot#iefix-s8ws3j') format('embedded-opentype'),
-		url('https://noble-cloudinlabs.github.io/chappo-static/wp-content/plugins/unyson/framework/static/libs/unycon/fonts/Unycon.ttf?-s8ws3j') format('truetype'),
-		url('https://noble-cloudinlabs.github.io/chappo-static/wp-content/plugins/unyson/framework/static/libs/unycon/fonts/Unycon.woff?-s8ws3j') format('woff'),
-		url('https://noble-cloudinlabs.github.io/chappo-static/wp-content/plugins/unyson/framework/static/libs/unycon/fonts/Unycon.svg?-s8ws3j#Unycon') format('svg');
+	src:url('fonts/Unycon.eot?-s8ws3j');
+	src:url('fonts/Unycon.eot?#iefix-s8ws3j') format('embedded-opentype'),
+		url('fonts/Unycon.ttf?-s8ws3j') format('truetype'),
+		url('fonts/Unycon.woff?-s8ws3j') format('woff'),
+		url('fonts/Unycon.svg?-s8ws3j#Unycon') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }

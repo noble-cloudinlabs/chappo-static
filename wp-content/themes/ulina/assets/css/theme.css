@@ -810,7 +810,7 @@ header .logo img{
     z-index: 9991;
     opacity: 0;
     visibility: hidden;
-    cursor: url(https://noble-cloudinlabs.github.io/chappo-static/wp-content/themes/ulina/assets/images/close.png), auto;
+    cursor: url(../images/close.png), auto;
 
     -webkit-transition: all .4s ease-in .8s;
     -o-transition: all .4s ease-in .8s;
@@ -1033,7 +1033,7 @@ header .logo img{
     float: right;
     height: 22px;
     width: 22px;
-    background: url(https://noble-cloudinlabs.github.io/chappo-static/wp-content/themes/ulina/assets/images/close1.png) no-repeat center center;
+    background: url(../images/close1.png) no-repeat center center;
     margin: 30px 0 0;
 }
 .search_Closer:hover{
@@ -3012,7 +3012,7 @@ header .logo img{
     position: absolute;
     left: 0;
     bottom: 0;
-    background: url(https://noble-cloudinlabs.github.io/chappo-static/wp-content/themes/ulina/assets/images/bg/2.png) repeat-x left bottom;
+    background: url(../images/bg/2.png) repeat-x left bottom;
     z-index: 2;
 }
 .bi01Content{
@@ -6641,7 +6641,7 @@ body.loginActivate .orderReviewWrap{
     background: #F6F8FA;
 }
 .sidebar select {
-    background: url(https://noble-cloudinlabs.github.io/chappo-static/wp-content/themes/ulina/assets/images/arrow_down.png) no-repeat calc(100% - 25px) center #fff;
+    background: url(../images/arrow_down.png) no-repeat calc(100% - 25px) center #fff;
     color: #aeb3c3;
     font-size: 16px;
     height: 60px;
@@ -7311,7 +7311,7 @@ body.loginActivate .orderReviewWrap{
     margin-bottom: 10px;
 }
 .blogDetailscontent select{
-    background: url(https://noble-cloudinlabs.github.io/chappo-static/wp-content/themes/ulina/assets/images/arrow_down.png) no-repeat calc(100% - 25px) center;
+    background: url(../images/arrow_down.png) no-repeat calc(100% - 25px) center;
     width: 100%;
     border-radius: 0;
     color: #1c2035;
@@ -7590,7 +7590,7 @@ body.loginActivate .orderReviewWrap{
     position: absolute;
     left: 0;
     bottom: 0;
-    background: url(https://noble-cloudinlabs.github.io/chappo-static/wp-content/themes/ulina/assets/images/bg/2.png) repeat-x left bottom;
+    background: url(../images/bg/2.png) repeat-x left bottom;
     transition: all ease 350ms;
     -moz-transition: all ease 350ms;
     -webkit-transition: all ease 350ms;
@@ -8307,7 +8307,7 @@ body.loginActivate .orderReviewWrap{
 .contactForm select:not([multiple]){
     appearance: none;
     -moz-appearance: none;
-    background: url(https://noble-cloudinlabs.github.io/chappo-static/wp-content/themes/ulina/assets/images/arrow_down.png) no-repeat calc(100% - 22px) center;
+    background: url(../images/arrow_down.png) no-repeat calc(100% - 22px) center;
 }
 .contactForm select[multiple]{
     border-radius: 22px 0 0 22px;
